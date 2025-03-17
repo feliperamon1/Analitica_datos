@@ -1,0 +1,1157 @@
+START_DATE,END_DATE,CATEGORY,START,STOP,MILES,PURPOSE
+"Friday, January 1, 2016","Friday, January 1, 2016",Business,Fort Pierce,Fort Pierce,5.1,Meal/Entertain
+"Saturday, January 2, 2016","Saturday, January 2, 2016",Business,Fort Pierce,Fort Pierce,5,
+"Saturday, January 2, 2016","Saturday, January 2, 2016",Business,Fort Pierce,Fort Pierce,4.8,Errand/Supplies
+"Tuesday, January 5, 2016","Tuesday, January 5, 2016",Business,Fort Pierce,Fort Pierce,4.7,Meeting
+"Wednesday, January 6, 2016","Wednesday, January 6, 2016",Business,Fort Pierce,West Palm Beach,63.7,Customer Visit
+"Wednesday, January 6, 2016","Wednesday, January 6, 2016",Business,West Palm Beach,West Palm Beach,4.3,Meal/Entertain
+"Wednesday, January 6, 2016","Wednesday, January 6, 2016",Business,West Palm Beach,Palm Beach,7.1,Meeting
+"Thursday, January 7, 2016","Thursday, January 7, 2016",Business,Cary,Cary,0.8,Meeting
+"Sunday, January 10, 2016","Sunday, January 10, 2016",Business,Cary,Morrisville,8.3,Meeting
+"Sunday, January 10, 2016","Sunday, January 10, 2016",Business,Jamaica,New York,16.5,Customer Visit
+"Sunday, January 10, 2016","Sunday, January 10, 2016",Business,New York,Queens,10.8,Meeting
+"Sunday, January 10, 2016","Sunday, January 10, 2016",Business,Elmhurst,New York,7.5,Meeting
+"Sunday, January 10, 2016","Sunday, January 10, 2016",Business,Midtown,East Harlem,6.2,Meeting
+"Monday, January 11, 2016","Monday, January 11, 2016",Business,East Harlem,NoMad,6.4,Temporary Site
+"Monday, January 11, 2016","Monday, January 11, 2016",Business,Flatiron District,Midtown,1.6,Errand/Supplies
+"Monday, January 11, 2016","Monday, January 11, 2016",Business,Midtown,Midtown East,1.7,Meal/Entertain
+"Monday, January 11, 2016","Monday, January 11, 2016",Business,Midtown East,Midtown,1.9,Meal/Entertain
+"Tuesday, January 12, 2016","Tuesday, January 12, 2016",Business,Midtown,Hudson Square,1.9,Meal/Entertain
+"Tuesday, January 12, 2016","Tuesday, January 12, 2016",Business,Hudson Square,Lower Manhattan,4,Meal/Entertain
+"Tuesday, January 12, 2016","Tuesday, January 12, 2016",Business,Lower Manhattan,Hudson Square,1.8,Errand/Supplies
+"Tuesday, January 12, 2016","Tuesday, January 12, 2016",Business,Hudson Square,Hell's Kitchen,2.4,Customer Visit
+"Tuesday, January 12, 2016","Tuesday, January 12, 2016",Business,Hell's Kitchen,Midtown,2,Errand/Supplies
+"Tuesday, January 12, 2016","Tuesday, January 12, 2016",Business,New York,Queens County,15.1,Meeting
+"Wednesday, January 13, 2016","Wednesday, January 13, 2016",Business,Downtown,Gulfton,11.2,Meeting
+"Wednesday, January 13, 2016","Wednesday, January 13, 2016",Business,Gulfton,Downtown,11.8,Meeting
+"Thursday, January 14, 2016","Thursday, January 14, 2016",Business,Houston,Houston,21.9,Customer Visit
+"Thursday, January 14, 2016","Thursday, January 14, 2016",Business,Eagan Park,Jamestown Court,3.9,Errand/Supplies
+"Friday, January 15, 2016","Friday, January 15, 2016",Business,Morrisville,Cary,8,Errand/Supplies
+"Friday, January 15, 2016","Friday, January 15, 2016",Business,Cary,Durham,10.4,Meal/Entertain
+"Friday, January 15, 2016","Friday, January 15, 2016",Business,Durham,Cary,10.4,Meal/Entertain
+"Monday, January 18, 2016","Monday, January 18, 2016",Business,Cary,Cary,4.8,Meal/Entertain
+"Monday, January 18, 2016","Monday, January 18, 2016",Business,Farmington Woods,Whitebridge,4.7,Meal/Entertain
+"Tuesday, January 19, 2016","Tuesday, January 19, 2016",Business,Whitebridge,Lake Wellingborough,7.2,
+"Tuesday, January 19, 2016","Tuesday, January 19, 2016",Business,Lake Wellingborough,Whitebridge,7.6,Temporary Site
+"Wednesday, January 20, 2016","Wednesday, January 20, 2016",Business,Cary,Raleigh,17.1,Meeting
+"Wednesday, January 20, 2016","Wednesday, January 20, 2016",Business,Fayetteville Street,Umstead,15.1,Meeting
+"Wednesday, January 20, 2016","Wednesday, January 20, 2016",Business,Raleigh,Cary,40.2,Customer Visit
+"Thursday, January 21, 2016","Thursday, January 21, 2016",Business,Cary,Cary,1.6,Errand/Supplies
+"Thursday, January 21, 2016","Thursday, January 21, 2016",Business,Cary,Cary,2.4,Meal/Entertain
+"Thursday, January 21, 2016","Thursday, January 21, 2016",Business,Cary,Cary,1,Meal/Entertain
+"Tuesday, January 26, 2016","Tuesday, January 26, 2016",Business,Whitebridge,Hazelwood,2,Meal/Entertain
+"Tuesday, January 26, 2016","Tuesday, January 26, 2016",Business,Hazelwood,Whitebridge,2.3,Errand/Supplies
+"Tuesday, January 26, 2016","Tuesday, January 26, 2016",Business,Whitebridge,Westpark Place,1.9,Errand/Supplies
+"Tuesday, January 26, 2016","Tuesday, January 26, 2016",Business,Cary,Cary,1.4,Errand/Supplies
+"Tuesday, January 26, 2016","Tuesday, January 26, 2016",Business,Cary,Cary,0.5,Errand/Supplies
+"Wednesday, January 27, 2016","Wednesday, January 27, 2016",Business,Cary,Cary,1.8,Meeting
+"Wednesday, January 27, 2016","Wednesday, January 27, 2016",Business,Cary,Raleigh,18.7,Customer Visit
+"Wednesday, January 27, 2016","Wednesday, January 27, 2016",Business,Fairmont,Meredith Townes,3.4,Customer Visit
+"Wednesday, January 27, 2016","Wednesday, January 27, 2016",Business,Raleigh,Raleigh,2.7,Customer Visit
+"Wednesday, January 27, 2016","Wednesday, January 27, 2016",Business,Raleigh,Cary,12.9,Customer Visit
+"Thursday, January 28, 2016","Thursday, January 28, 2016",Business,Cary,Raleigh,19,Temporary Site
+"Thursday, January 28, 2016","Thursday, January 28, 2016",Business,Meredith Townes,Leesville Hollow,14.7,Meeting
+"Thursday, January 28, 2016","Thursday, January 28, 2016",Business,Raleigh,Cary,15.7,Meeting
+"Friday, January 29, 2016","Friday, January 29, 2016",Business,Cary,Cary,4.6,Customer Visit
+"Friday, January 29, 2016","Friday, January 29, 2016",Business,Cary,Cary,5.2,Meeting
+"Friday, January 29, 2016","Friday, January 29, 2016",Business,Cary,Durham,10.4,Meeting
+"Friday, January 29, 2016","Friday, January 29, 2016",Business,Durham,Cary,10.1,Meeting
+"Friday, January 29, 2016","Friday, January 29, 2016",Business,Cary,Apex,5.8,Errand/Supplies
+"Friday, January 29, 2016","Friday, January 29, 2016",Business,Apex,Cary,5.5,Meal/Entertain
+"Saturday, January 30, 2016","Saturday, January 30, 2016",Business,Cary,Apex,5.7,Errand/Supplies
+"Saturday, January 30, 2016","Saturday, January 30, 2016",Business,Apex,Cary,5.7,Customer Visit
+"Monday, February 1, 2016","Monday, February 1, 2016",Business,Cary,Chapel Hill,19.4,Customer Visit
+"Monday, February 1, 2016","Monday, February 1, 2016",Business,Chapel Hill,Cary,23.3,Customer Visit
+"Monday, February 1, 2016","Monday, February 1, 2016",Business,Northwoods,Whitebridge,3.9,Meal/Entertain
+"Tuesday, February 2, 2016","Tuesday, February 2, 2016",Business,Whitebridge,Williamsburg Manor,8.3,Meeting
+"Tuesday, February 2, 2016","Tuesday, February 2, 2016",Business,Cary,Cary,6,Errand/Supplies
+"Tuesday, February 2, 2016","Tuesday, February 2, 2016",Business,Cary,Cary,1.6,Errand/Supplies
+"Thursday, February 4, 2016","Thursday, February 4, 2016",Business,Cary,Morrisville,5.2,Errand/Supplies
+"Thursday, February 4, 2016","Thursday, February 4, 2016",Business,Morrisville,Cary,9.7,Meal/Entertain
+"Thursday, February 4, 2016","Thursday, February 4, 2016",Business,Cary,Cary,1.6,Meal/Entertain
+"Thursday, February 4, 2016","Thursday, February 4, 2016",Business,Cary,Cary,1.1,Meal/Entertain
+"Thursday, February 4, 2016","Thursday, February 4, 2016",Business,Cary,Cary,1.6,Meal/Entertain
+"Thursday, February 4, 2016","Thursday, February 4, 2016",Business,Whitebridge,Macgregor Downs,9,Meeting
+"Thursday, February 4, 2016","Thursday, February 4, 2016",Business,Cary,Cary,7.7,Meeting
+"Friday, February 5, 2016","Friday, February 5, 2016",Business,Cary,Durham,10.4,Meeting
+"Friday, February 5, 2016","Friday, February 5, 2016",Business,Durham,Cary,10.4,Meeting
+"Saturday, February 6, 2016","Saturday, February 6, 2016",Business,Cary,Raleigh,11.4,Between Offices
+"Saturday, February 6, 2016","Saturday, February 6, 2016",Business,Raleigh,Cary,9,Errand/Supplies
+"Saturday, February 6, 2016","Saturday, February 6, 2016",Business,Edgehill Farms,Whitebridge,3.2,Meal/Entertain
+"Sunday, February 7, 2016","Sunday, February 7, 2016",Business,Cary,Apex,5.6,Errand/Supplies
+"Sunday, February 7, 2016","Sunday, February 7, 2016",Business,Apex,Cary,5.7,Customer Visit
+"Sunday, February 7, 2016","Sunday, February 7, 2016",Business,Cary,Morrisville,6.1,Temporary Site
+"Sunday, February 7, 2016","Sunday, February 7, 2016",Business,Morrisville,Cary,6.1,Meeting
+"Monday, February 8, 2016","Monday, February 8, 2016",Business,Whitebridge,Edgehill Farms,4.3,Meal/Entertain
+"Monday, February 8, 2016","Monday, February 8, 2016",Business,Edgehill Farms,Whitebridge,2.7,Meal/Entertain
+"Tuesday, February 9, 2016","Tuesday, February 9, 2016",Personal,Whitebridge,Northwoods,5.3,
+"Tuesday, February 9, 2016","Tuesday, February 9, 2016",Personal,Northwoods,Tanglewood,3,
+"Tuesday, February 9, 2016","Tuesday, February 9, 2016",Personal,Tanglewood,Preston,5.1,
+"Tuesday, February 9, 2016","Tuesday, February 9, 2016",Personal,Preston,Whitebridge,1.5,
+"Tuesday, February 9, 2016","Tuesday, February 9, 2016",Business,Cary,Morrisville,6.1,
+"Tuesday, February 9, 2016","Tuesday, February 9, 2016",Business,Morrisville,Cary,6.1,Meal/Entertain
+"Thursday, February 11, 2016","Thursday, February 11, 2016",Business,Cary,Raleigh,17.3,Meal/Entertain
+"Thursday, February 11, 2016","Thursday, February 11, 2016",Business,Eastgate,Walnut Terrace,5.7,Meal/Entertain
+"Thursday, February 11, 2016","Thursday, February 11, 2016",Business,Raleigh,Morrisville,13.5,Temporary Site
+"Thursday, February 11, 2016","Thursday, February 11, 2016",Business,Morrisville,Cary,6.1,Temporary Site
+"Friday, February 12, 2016","Friday, February 12, 2016",Business,Cary,Durham,8.5,Temporary Site
+"Friday, February 12, 2016","Friday, February 12, 2016",Business,Durham,Morrisville,2.6,Temporary Site
+"Friday, February 12, 2016","Friday, February 12, 2016",Business,Morrisville,Raleigh,17,Customer Visit
+"Friday, February 12, 2016","Friday, February 12, 2016",Business,Raleigh,Cary,18,Meeting
+"Friday, February 12, 2016","Friday, February 12, 2016",Business,Cary,Morrisville,8.4,Meeting
+"Friday, February 12, 2016","Friday, February 12, 2016",Business,Morrisville,Cary,11.5,Customer Visit
+"Saturday, February 13, 2016","Saturday, February 13, 2016",Business,Cary,Morrisville,8.9,Meeting
+"Saturday, February 13, 2016","Sunday, February 14, 2016",Personal,East Elmhurst,Jackson Heights,2.7,
+"Sunday, February 14, 2016","Sunday, February 14, 2016",Personal,Jackson Heights,East Elmhurst,1.8,
+"Sunday, February 14, 2016","Sunday, February 14, 2016",Business,East Elmhurst,New York,8.1,Meeting
+"Sunday, February 14, 2016","Sunday, February 14, 2016",Business,Midtown,Midtown West,2,Meeting
+"Sunday, February 14, 2016","Sunday, February 14, 2016",Business,New York,Long Island City,13,Meeting
+"Sunday, February 14, 2016","Sunday, February 14, 2016",Business,Long Island City,Jamaica,13.9,Meeting
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Katunayaka,Unknown Location,43.7,Customer Visit
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Unknown Location,Colombo,14.1,
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Colombo,Colombo,2.6,
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Colombo,Colombo,4.5,
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Colombo,Colombo,1.7,
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Colombo,Colombo,1.8,Temporary Site
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Colombo,Colombo,6,
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Colombo,Nugegoda,1.1,Meal/Entertain
+"Tuesday, February 16, 2016","Tuesday, February 16, 2016",Business,Nugegoda,Unknown Location,3.6,Errand/Supplies
+"Wednesday, February 17, 2016","Wednesday, February 17, 2016",Business,Unknown Location,Colombo,14.7,Temporary Site
+"Wednesday, February 17, 2016","Wednesday, February 17, 2016",Business,Colombo,Colombo,1.7,Meal/Entertain
+"Wednesday, February 17, 2016","Wednesday, February 17, 2016",Business,Colombo,Katunayaka,21.4,Temporary Site
+"Wednesday, February 17, 2016","Wednesday, February 17, 2016",Business,Katunayaka,Katunayaka,0.5,Errand/Supplies
+"Thursday, February 18, 2016","Thursday, February 18, 2016",Business,Unknown Location,Unknown Location,23.5,Temporary Site
+"Thursday, February 18, 2016","Thursday, February 18, 2016",Business,Unknown Location,Islamabad,12.7,Temporary Site
+"Thursday, February 18, 2016","Thursday, February 18, 2016",Business,Islamabad,Unknown Location,6,Temporary Site
+"Thursday, February 18, 2016","Thursday, February 18, 2016",Business,Unknown Location,Islamabad,5.2,Customer Visit
+"Thursday, February 18, 2016","Thursday, February 18, 2016",Business,Islamabad,Unknown Location,10,Meeting
+"Friday, February 19, 2016","Friday, February 19, 2016",Business,Unknown Location,Unknown Location,18.3,Meeting
+"Friday, February 19, 2016","Friday, February 19, 2016",Business,Unknown Location,Unknown Location,11.2,Meeting
+"Friday, February 19, 2016","Friday, February 19, 2016",Business,Unknown Location,Islamabad,7.6,Meeting
+"Friday, February 19, 2016","Friday, February 19, 2016",Personal,Islamabad,Islamabad,1.5,
+"Friday, February 19, 2016","Friday, February 19, 2016",Personal,Islamabad,Islamabad,1,
+"Friday, February 19, 2016","Friday, February 19, 2016",Business,Islamabad,Unknown Location,7.3,Temporary Site
+"Friday, February 19, 2016","Friday, February 19, 2016",Business,Unknown Location,Islamabad,3.5,
+"Friday, February 19, 2016","Friday, February 19, 2016",Business,Islamabad,Islamabad,4.2,
+"Friday, February 19, 2016","Friday, February 19, 2016",Personal,Islamabad,Unknown Location,13.6,
+"Friday, February 19, 2016","Friday, February 19, 2016",Personal,Unknown Location,Unknown Location,2.5,
+"Saturday, February 20, 2016","Saturday, February 20, 2016",Personal,Unknown Location,Islamabad,14.4,
+"Saturday, February 20, 2016","Saturday, February 20, 2016",Personal,Islamabad,Islamabad,3,
+"Saturday, February 20, 2016","Saturday, February 20, 2016",Personal,Islamabad,Islamabad,1.5,
+"Saturday, February 20, 2016","Saturday, February 20, 2016",Business,Islamabad,R?walpindi,18.4,
+"Saturday, February 20, 2016","Saturday, February 20, 2016",Business,R?walpindi,R?walpindi,23.1,Meeting
+"Saturday, February 20, 2016","Saturday, February 20, 2016",Personal,R?walpindi,Unknown Location,16.5,
+"Saturday, February 20, 2016","Saturday, February 20, 2016",Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
+"Saturday, February 20, 2016","Saturday, February 20, 2016",Business,Unknown Location,Unknown Location,7.7,Errand/Supplies
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Unknown Location,Islamabad,14.5,
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Unknown Location,Islamabad,2.4,Errand/Supplies
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Islamabad,Islamabad,4.6,Errand/Supplies
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Islamabad,Unknown Location,8.8,Meal/Entertain
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Unknown Location,Unknown Location,8.3,Temporary Site
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Unknown Location,Unknown Location,22.7,Temporary Site
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Unknown Location,Islamabad,13,Temporary Site
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Islamabad,Noorpur Shahan,8.1,Temporary Site
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Noorpur Shahan,Unknown Location,2.2,Meal/Entertain
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Unknown Location,Unknown Location,9.7,
+"Sunday, February 21, 2016","Sunday, February 21, 2016",Business,Unknown Location,R?walpindi,20,Meeting
+"Monday, February 22, 2016","Monday, February 22, 2016",Business,Morrisville,Cary,8.1,Customer Visit
+"Wednesday, February 24, 2016","Wednesday, February 24, 2016",Business,Whitebridge,Preston,1.5,
+"Wednesday, February 24, 2016","Wednesday, February 24, 2016",Business,Preston,Whitebridge,1.7,Errand/Supplies
+"Thursday, February 25, 2016","Thursday, February 25, 2016",Business,Whitebridge,Heritage Pines,3.1,Errand/Supplies
+"Thursday, February 25, 2016","Thursday, February 25, 2016",Business,Heritage Pines,Whitebridge,3.2,Errand/Supplies
+"Thursday, February 25, 2016","Thursday, February 25, 2016",Business,Whitebridge,Tanglewood,6,Meal/Entertain
+"Thursday, February 25, 2016","Thursday, February 25, 2016",Business,Tanglewood,Whitebridge,5.8,Meal/Entertain
+"Friday, February 26, 2016","Friday, February 26, 2016",Business,Whitebridge,Westpark Place,6.3,
+"Friday, February 26, 2016","Friday, February 26, 2016",Personal,Westpark Place,Whitebridge,1.7,
+"Friday, February 26, 2016","Friday, February 26, 2016",Business,Cary,Durham,10.6,Meeting
+"Friday, February 26, 2016","Friday, February 26, 2016",Business,Durham,Cary,9.9,Meeting
+"Friday, February 26, 2016","Friday, February 26, 2016",Personal,Whitebridge,Westpark Place,1.9,
+"Friday, February 26, 2016","Friday, February 26, 2016",Personal,Westpark Place,Hazelwood,4.2,
+"Friday, February 26, 2016","Friday, February 26, 2016",Personal,Hazelwood,Whitebridge,2,
+"Sunday, February 28, 2016","Sunday, February 28, 2016",Business,Whitebridge,Waverly Place,7.7,Meeting
+"Sunday, February 28, 2016","Sunday, February 28, 2016",Business,Waverly Place,Whitebridge,6.8,Meeting
+"Monday, February 29, 2016","Monday, February 29, 2016",Personal,Whitebridge,Westpark Place,2.1,
+"Monday, February 29, 2016","Monday, February 29, 2016",Business,Cary,Apex,3.8,Meeting
+"Monday, February 29, 2016","Monday, February 29, 2016",Business,Apex,Cary,5.6,Meeting
+"Monday, February 29, 2016","Monday, February 29, 2016",Business,Whitebridge,Hazelwood,2.6,
+"Monday, February 29, 2016","Monday, February 29, 2016",Business,Hazelwood,Whitebridge,6.6,Customer Visit
+"Tuesday, March 1, 2016","Tuesday, March 1, 2016",Business,Whitebridge,Wayne Ridge,8,Meal/Entertain
+"Tuesday, March 1, 2016","Tuesday, March 1, 2016",Business,Wayne Ridge,Whitebridge,8,Meeting
+"Thursday, March 3, 2016","Thursday, March 3, 2016",Personal,Whitebridge,Westpark Place,2.2,
+"Thursday, March 3, 2016","Thursday, March 3, 2016",Business,Westpark Place,Whitebridge,2.3,Errand/Supplies
+"Thursday, March 3, 2016","Thursday, March 3, 2016",Business,Whitebridge,Northwoods,5.2,Meal/Entertain
+"Thursday, March 3, 2016","Thursday, March 3, 2016",Business,Cary,Raleigh,7.6,Customer Visit
+"Thursday, March 3, 2016","Thursday, March 3, 2016",Business,Raleigh,Cary,17.3,Meeting
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Cary,Durham,9.9,Meeting
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Durham,Cary,9.9,Customer Visit
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Cary,Durham,10.4,Meeting
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Durham,Cary,10.9,Meeting
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Cary,Raleigh,15.7,Customer Visit
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Raleigh,Raleigh,4.9,Meal/Entertain
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Fayetteville Street,Depot Historic District,0.8,Errand/Supplies
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Raleigh,Cary,13.5,Meeting
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Cary,Morrisville,1.9,Temporary Site
+"Friday, March 4, 2016","Friday, March 4, 2016",Business,Morrisville,Cary,2,Meal/Entertain
+"Saturday, March 5, 2016","Saturday, March 5, 2016",Business,Cary,Morrisville,6.5,Meal/Entertain
+"Saturday, March 5, 2016","Saturday, March 5, 2016",Personal,Weston,Weston,4.2,
+"Saturday, March 5, 2016","Saturday, March 5, 2016",Personal,Morrisville,Cary,3.5,
+"Saturday, March 5, 2016","Saturday, March 5, 2016",Business,Whitebridge,Wayne Ridge,7.8,Meal/Entertain
+"Saturday, March 5, 2016","Saturday, March 5, 2016",Business,Cary,Morrisville,7.8,Meal/Entertain
+"Saturday, March 5, 2016","Saturday, March 5, 2016",Business,Morrisville,Cary,3.9,Meal/Entertain
+"Monday, March 7, 2016","Monday, March 7, 2016",Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies
+"Monday, March 7, 2016","Monday, March 7, 2016",Business,Cary,Raleigh,12.4,Customer Visit
+"Monday, March 7, 2016","Monday, March 7, 2016",Business,Fayetteville Street,Meredith Townes,5.9,Customer Visit
+"Monday, March 7, 2016","Monday, March 7, 2016",Business,Meredith Townes,Leesville Hollow,9.4,Meeting
+"Monday, March 7, 2016","Monday, March 7, 2016",Business,Raleigh,Cary,11.9,Between Offices
+"Tuesday, March 8, 2016","Tuesday, March 8, 2016",Business,Whitebridge,Waverly Place,7.2,Between Offices
+"Tuesday, March 8, 2016","Tuesday, March 8, 2016",Business,Waverly Place,Whitebridge,7.6,Meal/Entertain
+"Tuesday, March 8, 2016","Tuesday, March 8, 2016",Personal,Whitebridge,Whitebridge,1.6,
+"Thursday, March 10, 2016","Thursday, March 10, 2016",Business,Cary,Morrisville,8.4,Meeting
+"Thursday, March 10, 2016","Thursday, March 10, 2016",Business,East Austin,West University,12.8,Meeting
+"Thursday, March 10, 2016","Thursday, March 10, 2016",Business,West University,South Congress,2.3,
+"Thursday, March 10, 2016","Thursday, March 10, 2016",Business,South Congress,Arts District,1.6,
+"Friday, March 11, 2016","Friday, March 11, 2016",Business,The Drag,Congress Ave District,2,Meal/Entertain
+"Friday, March 11, 2016","Friday, March 11, 2016",Business,Congress Ave District,Downtown,0.8,
+"Friday, March 11, 2016","Friday, March 11, 2016",Business,Downtown,Red River District,1.2,
+"Friday, March 11, 2016","Friday, March 11, 2016",Business,Red River District,Downtown,1,
+"Friday, March 11, 2016","Friday, March 11, 2016",Business,South Congress,The Drag,2.1,
+"Saturday, March 12, 2016","Saturday, March 12, 2016",Business,The Drag,South Congress,2.2,
+"Saturday, March 12, 2016","Saturday, March 12, 2016",Personal,South Congress,The Drag,1.9,
+"Sunday, March 13, 2016","Sunday, March 13, 2016",Business,The Drag,Convention Center District,5.7,Meal/Entertain
+"Sunday, March 13, 2016","Sunday, March 13, 2016",Business,South Congress,North Austin,8.4,Meal/Entertain
+"Sunday, March 13, 2016","Sunday, March 13, 2016",Business,Georgian Acres,The Drag,6.2,Meal/Entertain
+"Sunday, March 13, 2016","Sunday, March 13, 2016",Business,The Drag,North Austin,10.5,Meal/Entertain
+"Sunday, March 13, 2016","Sunday, March 13, 2016",Business,North Austin,Coxville,7.2,Meal/Entertain
+"Sunday, March 13, 2016","Sunday, March 13, 2016",Business,Coxville,The Drag,12.5,
+"Monday, March 14, 2016","Monday, March 14, 2016",Business,The Drag,South Congress,2,Errand/Supplies
+"Monday, March 14, 2016","Monday, March 14, 2016",Business,South Congress,The Drag,2.7,
+"Tuesday, March 15, 2016","Tuesday, March 15, 2016",Business,The Drag,Convention Center District,2,Meal/Entertain
+"Tuesday, March 15, 2016","Tuesday, March 15, 2016",Business,Downtown,The Drag,2.8,Meal/Entertain
+"Wednesday, March 16, 2016","Wednesday, March 16, 2016",Business,The Drag,Congress Ave District,1.7,Meal/Entertain
+"Wednesday, March 16, 2016","Wednesday, March 16, 2016",Business,Convention Center District,West University,2,
+"Wednesday, March 16, 2016","Wednesday, March 16, 2016",Business,West University,Congress Ave District,2.1,Meal/Entertain
+"Thursday, March 17, 2016","Thursday, March 17, 2016",Personal,Downtown,The Drag,1.7,
+"Thursday, March 17, 2016","Thursday, March 17, 2016",Business,Austin,Katy,136,Customer Visit
+"Thursday, March 17, 2016","Thursday, March 17, 2016",Business,Katy,Houston,30.2,Meeting
+"Thursday, March 17, 2016","Thursday, March 17, 2016",Business,Midtown,Alief,15.5,Meal/Entertain
+"Thursday, March 17, 2016","Thursday, March 17, 2016",Personal,Houston,Houston,4.9,
+"Thursday, March 17, 2016","Thursday, March 17, 2016",Personal,Houston,Houston,12.6,
+"Thursday, March 17, 2016","Thursday, March 17, 2016",Personal,Sharpstown,Midtown,10.4,
+"Friday, March 18, 2016","Friday, March 18, 2016",Business,Midtown,Midtown,1.1,Meal/Entertain
+"Friday, March 18, 2016","Friday, March 18, 2016",Business,Midtown,Midtown,1.1,Meal/Entertain
+"Friday, March 18, 2016","Friday, March 18, 2016",Business,Midtown,Sharpstown,13.2,Meeting
+"Friday, March 18, 2016","Friday, March 18, 2016",Business,Sharpstown,Sharpstown,1,Errand/Supplies
+"Friday, March 18, 2016","Friday, March 18, 2016",Business,Sharpstown,Midtown,9.2,Customer Visit
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Midtown,Sharpstown,9.4,Meal/Entertain
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Houston,Sugar Land,12,Customer Visit
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Sugar Land,Houston,35.1,Customer Visit
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Houston,Galveston,36.5,Meal/Entertain
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Galveston,Port Bolivar,3.1,Meal/Entertain
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Port Bolivar,Port Bolivar,2.1,Errand/Supplies
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Port Bolivar,Port Bolivar,1.2,
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Port Bolivar,Galveston,7.5,Meeting
+"Saturday, March 19, 2016","Saturday, March 19, 2016",Business,Galveston,Houston,57,Customer Visit
+"Sunday, March 20, 2016","Sunday, March 20, 2016",Business,Midtown,Washington Avenue,5.9,Meeting
+"Sunday, March 20, 2016","Sunday, March 20, 2016",Business,Washington Avenue,Midtown,6.2,Meeting
+"Sunday, March 20, 2016","Sunday, March 20, 2016",Business,Midtown,Sharpstown,10.4,
+"Sunday, March 20, 2016","Sunday, March 20, 2016",Personal,Sharpstown,Briar Meadow,1.2,
+"Sunday, March 20, 2016","Sunday, March 20, 2016",Business,Briar Meadow,Midtown,9.6,Customer Visit
+"Monday, March 21, 2016","Monday, March 21, 2016",Personal,Midtown,Downtown,1,
+"Monday, March 21, 2016","Monday, March 21, 2016",Business,Downtown,Midtown,0.9,Meal/Entertain
+"Monday, March 21, 2016","Monday, March 21, 2016",Business,Midtown,Sharpstown,8.8,
+"Monday, March 21, 2016","Monday, March 21, 2016",Business,Sharpstown,Midtown,25.6,Meal/Entertain
+"Tuesday, March 22, 2016","Tuesday, March 22, 2016",Business,Midtown,Greater Greenspoint,23,Meal/Entertain
+"Tuesday, March 22, 2016","Tuesday, March 22, 2016",Personal,Morrisville,Cary,8.1,
+"Tuesday, March 22, 2016","Tuesday, March 22, 2016",Personal,Whitebridge,Whitebridge,1.4,
+"Wednesday, March 23, 2016","Wednesday, March 23, 2016",Personal,Whitebridge,Preston,1.7,
+"Wednesday, March 23, 2016","Wednesday, March 23, 2016",Personal,Preston,Whitebridge,1.6,
+"Thursday, March 24, 2016","Thursday, March 24, 2016",Personal,Whitebridge,Westpark Place,2,
+"Thursday, March 24, 2016","Thursday, March 24, 2016",Business,Westpark Place,Whitebridge,2.2,
+"Friday, March 25, 2016","Friday, March 25, 2016",Business,Cary,Latta,144,Customer Visit
+"Friday, March 25, 2016","Friday, March 25, 2016",Business,Latta,Jacksonville,310.3,Customer Visit
+"Friday, March 25, 2016","Saturday, March 26, 2016",Business,Jacksonville,Kissimmee,201,Meeting
+"Saturday, March 26, 2016","Saturday, March 26, 2016",Personal,Couples Glen,Isles of Buena Vista,6.7,
+"Saturday, March 26, 2016","Saturday, March 26, 2016",Personal,Kissimmee,Orlando,8.8,
+"Saturday, March 26, 2016","Saturday, March 26, 2016",Personal,Lake Reams,Lake Reams,1.2,
+"Sunday, March 27, 2016","Sunday, March 27, 2016",Business,Lake Reams,Lake Reams,2.1,Errand/Supplies
+"Sunday, March 27, 2016","Sunday, March 27, 2016",Business,Orlando,Kissimmee,6.6,Meal/Entertain
+"Sunday, March 27, 2016","Sunday, March 27, 2016",Business,Kissimmee,Orlando,6.1,Customer Visit
+"Sunday, March 27, 2016","Sunday, March 27, 2016",Personal,Orlando,Orlando,6.9,
+"Sunday, March 27, 2016","Sunday, March 27, 2016",Personal,Orlando,Kissimmee,7.3,
+"Monday, March 28, 2016","Monday, March 28, 2016",Personal,Kissimmee,Orlando,3.6,
+"Monday, March 28, 2016","Monday, March 28, 2016",Personal,Couples Glen,Vista East,27.2,
+"Monday, March 28, 2016","Monday, March 28, 2016",Personal,Orlando,Kissimmee,25.7,
+"Tuesday, March 29, 2016","Tuesday, March 29, 2016",Personal,Kissimmee,Orlando,13.6,
+"Tuesday, March 29, 2016","Tuesday, March 29, 2016",Personal,Sand Lake Commons,Sky Lake,6.2,
+"Tuesday, March 29, 2016","Tuesday, March 29, 2016",Personal,Sky Lake,Sand Lake Commons,6,
+"Tuesday, March 29, 2016","Tuesday, March 29, 2016",Personal,Orlando,Kissimmee,13.8,
+"Wednesday, March 30, 2016","Wednesday, March 30, 2016",Business,Orlando,Kissimmee,28.8,Meal/Entertain
+"Thursday, March 31, 2016","Thursday, March 31, 2016",Business,Kissimmee,Orlando,16.1,Temporary Site
+"Thursday, March 31, 2016","Thursday, March 31, 2016",Business,Orlando,Kissimmee,16.4,Meal/Entertain
+"Friday, April 1, 2016","Friday, April 1, 2016",Business,Kissimmee,Kissimmee,11,Meeting
+"Friday, April 1, 2016","Friday, April 1, 2016",Business,Kissimmee,Orlando,15.5,Customer Visit
+"Friday, April 1, 2016","Friday, April 1, 2016",Business,Orlando,Kissimmee,20.3,Meeting
+"Friday, April 1, 2016","Friday, April 1, 2016",Personal,Kissimmee,Kissimmee,0.7,
+"Saturday, April 2, 2016","Saturday, April 2, 2016",Personal,Kissimmee,Kissimmee,5.5,
+"Saturday, April 2, 2016","Saturday, April 2, 2016",Personal,Kissimmee,Kissimmee,5.1,
+"Saturday, April 2, 2016","Saturday, April 2, 2016",Business,Kissimmee,Daytona Beach,77.3,Customer Visit
+"Saturday, April 2, 2016","Saturday, April 2, 2016",Business,Daytona Beach,Jacksonville,80.5,Customer Visit
+"Saturday, April 2, 2016","Saturday, April 2, 2016",Business,Jacksonville,Ridgeland,174.2,Customer Visit
+"Saturday, April 2, 2016","Sunday, April 3, 2016",Business,Ridgeland,Florence,144,Meeting
+"Sunday, April 3, 2016","Sunday, April 3, 2016",Business,Florence,Cary,159.3,Meeting
+"Tuesday, April 5, 2016","Tuesday, April 5, 2016",Business,Whitebridge,Wayne Ridge,7.9,Meal/Entertain
+"Wednesday, April 6, 2016","Wednesday, April 6, 2016",Business,Wayne Ridge,Whitebridge,8,Meal/Entertain
+"Thursday, April 7, 2016","Thursday, April 7, 2016",Business,Cary,Morrisville,6.1,Meal/Entertain
+"Thursday, April 7, 2016","Thursday, April 7, 2016",Business,Morrisville,Cary,6.1,Errand/Supplies
+"Friday, April 8, 2016","Friday, April 8, 2016",Business,Cary,Durham,10.5,Meeting
+"Friday, April 8, 2016","Friday, April 8, 2016",Business,Durham,Cary,8.7,Meal/Entertain
+"Friday, April 8, 2016","Friday, April 8, 2016",Business,Westpark Place,Whitebridge,1.8,Errand/Supplies
+"Friday, April 8, 2016","Friday, April 8, 2016",Business,Cary,Raleigh,19.1,Meeting
+"Friday, April 8, 2016","Friday, April 8, 2016",Business,Raleigh,Cary,18.6,Meeting
+"Tuesday, April 12, 2016","Tuesday, April 12, 2016",Business,Whitebridge,Edgehill Farms,2.8,Errand/Supplies
+"Tuesday, April 12, 2016","Tuesday, April 12, 2016",Business,Cary,Raleigh,8.9,Meeting
+"Tuesday, April 12, 2016","Tuesday, April 12, 2016",Business,Meredith,Cedar Hill,7.5,Customer Visit
+"Tuesday, April 12, 2016","Tuesday, April 12, 2016",Business,Raleigh,Morrisville,15.9,Meeting
+"Tuesday, April 12, 2016","Tuesday, April 12, 2016",Business,Morrisville,Cary,6.5,Meal/Entertain
+"Thursday, April 14, 2016","Thursday, April 14, 2016",Business,Cary,Holly Springs,15.3,Temporary Site
+"Thursday, April 14, 2016","Thursday, April 14, 2016",Business,Holly Springs,Cary,13.7,Temporary Site
+"Friday, April 15, 2016","Friday, April 15, 2016",Business,Cary,Raleigh,11.9,Temporary Site
+"Friday, April 15, 2016","Friday, April 15, 2016",Business,Meredith Townes,Harden Place,1.4,Errand/Supplies
+"Friday, April 15, 2016","Friday, April 15, 2016",Business,Raleigh,Cary,15.2,Meeting
+"Saturday, April 16, 2016","Saturday, April 16, 2016",Business,Cary,Morrisville,6,Errand/Supplies
+"Saturday, April 16, 2016","Saturday, April 16, 2016",Business,Morrisville,Cary,6.1,Meal/Entertain
+"Tuesday, April 19, 2016","Tuesday, April 19, 2016",Business,Whitebridge,Wayne Ridge,8.2,Meal/Entertain
+"Tuesday, April 19, 2016","Tuesday, April 19, 2016",Business,Wayne Ridge,Whitebridge,8,Meal/Entertain
+"Friday, April 22, 2016","Friday, April 22, 2016",Business,Cary,Raleigh,13.6,Meeting
+"Friday, April 22, 2016","Friday, April 22, 2016",Business,Raleigh,Cary,22.5,Meeting
+"Friday, April 22, 2016","Friday, April 22, 2016",Business,Cary,Durham,10.4,Meeting
+"Friday, April 22, 2016","Friday, April 22, 2016",Business,Durham,Cary,10,Meeting
+"Saturday, April 23, 2016","Saturday, April 23, 2016",Business,Whitebridge,Tanglewood,6,Meal/Entertain
+"Saturday, April 23, 2016","Saturday, April 23, 2016",Business,Tanglewood,Whitebridge,6.5,Meal/Entertain
+"Sunday, April 24, 2016","Sunday, April 24, 2016",Business,Cary,Morrisville,3.1,Errand/Supplies
+"Sunday, April 24, 2016","Sunday, April 24, 2016",Business,Chessington,Chessington,1.9,Errand/Supplies
+"Sunday, April 24, 2016","Sunday, April 24, 2016",Business,Morrisville,Cary,4.2,Between Offices
+"Wednesday, April 27, 2016","Wednesday, April 27, 2016",Business,Whitebridge,Burtrose,4.9,Between Offices
+"Wednesday, April 27, 2016","Wednesday, April 27, 2016",Business,Burtrose,Whitebridge,4.8,Between Offices
+"Thursday, April 28, 2016","Thursday, April 28, 2016",Business,Cary,Raleigh,12.4,Customer Visit
+"Thursday, April 28, 2016","Thursday, April 28, 2016",Business,Raleigh,Cary,32.8,Customer Visit
+"Thursday, April 28, 2016","Thursday, April 28, 2016",Business,Morrisville,Cary,5.5,Customer Visit
+"Friday, April 29, 2016","Friday, April 29, 2016",Business,Cary,Durham,9.9,Meeting
+"Friday, April 29, 2016","Friday, April 29, 2016",Business,Durham,Cary,10,Meeting
+"Friday, April 29, 2016","Friday, April 29, 2016",Business,Cary,Durham,14.2,Customer Visit
+"Friday, April 29, 2016","Friday, April 29, 2016",Business,Durham,Cary,18.2,Meeting
+"Saturday, April 30, 2016","Saturday, April 30, 2016",Business,Whitebridge,Waverly Place,7.7,Meal/Entertain
+"Saturday, April 30, 2016","Saturday, April 30, 2016",Business,Waverly Place,Whitebridge,6.8,
+"Sunday, May 1, 2016","Sunday, May 1, 2016",Business,Whitebridge,Westpark Place,2.1,Meal/Entertain
+"Sunday, May 1, 2016","Sunday, May 1, 2016",Business,Westpark Place,Whitebridge,2.3,
+"Sunday, May 1, 2016","Sunday, May 1, 2016",Business,Whitebridge,Tanglewood,6.2,Between Offices
+"Sunday, May 1, 2016","Sunday, May 1, 2016",Business,Tanglewood,Parkway,7.5,Meeting
+"Sunday, May 1, 2016","Sunday, May 1, 2016",Business,Parkway,Whitebridge,3.1,Errand/Supplies
+"Monday, May 2, 2016","Monday, May 2, 2016",Business,Whitebridge,Westpark Place,2.2,Errand/Supplies
+"Monday, May 2, 2016","Monday, May 2, 2016",Business,Westpark Place,Whitebridge,3.9,Meal/Entertain
+"Tuesday, May 3, 2016","Tuesday, May 3, 2016",Business,Morrisville,Cary,2.5,Meal/Entertain
+"Wednesday, May 4, 2016","Wednesday, May 4, 2016",Business,Cary,Morrisville,8.7,Meal/Entertain
+"Wednesday, May 4, 2016","Wednesday, May 4, 2016",Business,Mcvan,Capitol One,14.5,Errand/Supplies
+"Wednesday, May 4, 2016","Wednesday, May 4, 2016",Business,Capitol One,University District,4.5,Meal/Entertain
+"Wednesday, May 4, 2016","Wednesday, May 4, 2016",Business,University District,Capitol One,5,Meal/Entertain
+"Thursday, May 5, 2016","Thursday, May 5, 2016",Business,Seattle,Redmond,14.2,Meal/Entertain
+"Thursday, May 5, 2016","Thursday, May 5, 2016",Business,Redmond,Bellevue,2.9,Errand/Supplies
+"Thursday, May 5, 2016","Friday, May 6, 2016",Business,Bellevue,Seattle,12.9,Meeting
+"Friday, May 6, 2016","Friday, May 6, 2016",Business,Capitol One,Mcvan,14.4,Meeting
+"Friday, May 6, 2016","Friday, May 6, 2016",Business,Chapel Hill,Morrisville,17,Meeting
+"Friday, May 6, 2016","Friday, May 6, 2016",Business,Morrisville,Cary,7.9,Customer Visit
+"Monday, May 9, 2016","Monday, May 9, 2016",Business,Cary,Morrisville,8.4,Customer Visit
+"Monday, May 9, 2016","Monday, May 9, 2016",Business,San Francisco,Palo Alto,20.5,Between Offices
+"Monday, May 9, 2016","Monday, May 9, 2016",Business,Palo Alto,Sunnyvale,9.8,Customer Visit
+"Monday, May 9, 2016","Monday, May 9, 2016",Business,Sunnyvale,Newark,17.6,Customer Visit
+"Tuesday, May 10, 2016","Tuesday, May 10, 2016",Business,Newark,Menlo Park,9.3,Customer Visit
+"Tuesday, May 10, 2016","Tuesday, May 10, 2016",Business,Menlo Park,Newark,7.9,Customer Visit
+"Wednesday, May 11, 2016","Wednesday, May 11, 2016",Business,Newark,San Francisco,25.6,Meeting
+"Wednesday, May 11, 2016","Wednesday, May 11, 2016",Business,Morrisville,Cary,8.1,Meeting
+"Saturday, May 14, 2016","Saturday, May 14, 2016",Business,Cary,Morrisville,3.1,Meal/Entertain
+"Saturday, May 14, 2016","Saturday, May 14, 2016",Business,Morrisville,Cary,3.1,Meal/Entertain
+"Tuesday, May 17, 2016","Tuesday, May 17, 2016",Business,Whitebridge,Preston,2.8,Errand/Supplies
+"Tuesday, May 17, 2016","Tuesday, May 17, 2016",Business,Preston,Westpark Place,2.7,Errand/Supplies
+"Tuesday, May 17, 2016","Tuesday, May 17, 2016",Business,Westpark Place,Whitebridge,1.9,Errand/Supplies
+"Wednesday, May 18, 2016","Wednesday, May 18, 2016",Business,Cary,Morrisville,8.4,Customer Visit
+"Wednesday, May 18, 2016","Wednesday, May 18, 2016",Business,Morrisville,Raleigh,7.6,Customer Visit
+"Thursday, May 19, 2016","Thursday, May 19, 2016",Business,Old City,Parkway Museums,2.9,Meal/Entertain
+"Friday, May 20, 2016","Friday, May 20, 2016",Business,Old City,Hog Island,11.2,Meeting
+"Friday, May 20, 2016","Friday, May 20, 2016",Business,Morrisville,Cary,8.2,Meal/Entertain
+"Sunday, May 22, 2016","Sunday, May 22, 2016",Business,Cary,Morrisville,3,Meal/Entertain
+"Sunday, May 22, 2016","Sunday, May 22, 2016",Business,Morrisville,Cary,2.5,Meal/Entertain
+"Monday, May 23, 2016","Monday, May 23, 2016",Business,Whitebridge,Savon Height,3.6,Meal/Entertain
+"Monday, May 23, 2016","Monday, May 23, 2016",Business,Savon Height,Whitebridge,3.6,Errand/Supplies
+"Friday, May 27, 2016","Friday, May 27, 2016",Business,Whitebridge,Kildaire Farms,4.5,Errand/Supplies
+"Friday, May 27, 2016","Friday, May 27, 2016",Business,Savon Height,Kilarney Woods,1.2,
+"Friday, May 27, 2016","Friday, May 27, 2016",Business,Kilarney Woods,Kildaire Farms,1.7,Errand/Supplies
+"Saturday, May 28, 2016","Saturday, May 28, 2016",Business,Kilarney Woods,Whitebridge,4.7,Errand/Supplies
+"Saturday, May 28, 2016","Saturday, May 28, 2016",Business,Cary,Morrisville,6.1,Meal/Entertain
+"Saturday, May 28, 2016","Saturday, May 28, 2016",Business,Morrisville,Cary,11.3,Customer Visit
+"Tuesday, May 31, 2016","Tuesday, May 31, 2016",Business,Cary,Raleigh,14.9,Meeting
+"Tuesday, May 31, 2016","Tuesday, May 31, 2016",Business,Raleigh,Cary,14,Meeting
+"Tuesday, May 31, 2016","Tuesday, May 31, 2016",Business,Westpark Place,Whitebridge,1.8,
+"Wednesday, June 1, 2016","Wednesday, June 1, 2016",Business,Cary,Morrisville,6.7,Customer Visit
+"Wednesday, June 1, 2016","Wednesday, June 1, 2016",Business,Morrisville,Cary,9.6,Meeting
+"Friday, June 3, 2016","Friday, June 3, 2016",Business,Cary,Durham,10.4,Meeting
+"Friday, June 3, 2016","Friday, June 3, 2016",Business,Durham,Cary,9.9,Meeting
+"Friday, June 3, 2016","Friday, June 3, 2016",Business,Cary,Morrisville,6,Meal/Entertain
+"Friday, June 3, 2016","Friday, June 3, 2016",Business,Townes at Everett Crossing,Chessington,3.3,Errand/Supplies
+"Friday, June 3, 2016","Friday, June 3, 2016",Business,Morrisville,Cary,3.1,Errand/Supplies
+"Friday, June 3, 2016","Friday, June 3, 2016",Business,Huntington Woods,Weston,1.7,Errand/Supplies
+"Friday, June 3, 2016","Friday, June 3, 2016",Business,Morrisville,Cary,4,Between Offices
+"Sunday, June 5, 2016","Sunday, June 5, 2016",Business,Whitebridge,Savon Height,7.8,Customer Visit
+"Sunday, June 5, 2016","Sunday, June 5, 2016",Business,Cary,Morrisville,7.8,Customer Visit
+"Sunday, June 5, 2016","Sunday, June 5, 2016",Business,Weston,Weston,3.8,Meal/Entertain
+"Sunday, June 5, 2016","Sunday, June 5, 2016",Business,Morrisville,Cary,2.5,Meal/Entertain
+"Sunday, June 5, 2016","Sunday, June 5, 2016",Business,Cary,Durham,9.9,Meeting
+"Sunday, June 5, 2016","Monday, June 6, 2016",Business,Durham,Cary,9.9,Meeting
+"Monday, June 6, 2016","Monday, June 6, 2016",Business,Whitebridge,Hazelwood,3,Errand/Supplies
+"Monday, June 6, 2016","Monday, June 6, 2016",Business,Hazelwood,Whitebridge,2.4,Errand/Supplies
+"Monday, June 6, 2016","Monday, June 6, 2016",Business,Cary,Apex,5.7,Meal/Entertain
+"Monday, June 6, 2016","Monday, June 6, 2016",Business,Apex,Cary,7.2,Meal/Entertain
+"Monday, June 6, 2016","Monday, June 6, 2016",Business,Cary,Durham,10.4,Meeting
+"Monday, June 6, 2016","Monday, June 6, 2016",Business,Durham,Cary,9.9,Meeting
+"Tuesday, June 7, 2016","Tuesday, June 7, 2016",Business,Cary,Durham,10.4,Meeting
+"Tuesday, June 7, 2016","Wednesday, June 8, 2016",Business,Durham,Cary,9.9,Meeting
+"Wednesday, June 8, 2016","Wednesday, June 8, 2016",Business,Cary,Morrisville,8.7,Meal/Entertain
+"Wednesday, June 8, 2016","Wednesday, June 8, 2016",Business,Jamaica,New York,22.3,Errand/Supplies
+"Wednesday, June 8, 2016","Wednesday, June 8, 2016",Business,Seaport,Gramercy-Flatiron,3.3,Meal/Entertain
+"Wednesday, June 8, 2016","Wednesday, June 8, 2016",Business,Medical Centre,Tudor City,0.7,Errand/Supplies
+"Wednesday, June 8, 2016","Wednesday, June 8, 2016",Business,Rose Hill,Soho,2.5,Meal/Entertain
+"Wednesday, June 8, 2016","Wednesday, June 8, 2016",Business,Soho,Tribeca,0.5,Errand/Supplies
+"Wednesday, June 8, 2016","Wednesday, June 8, 2016",Business,Tribeca,Financial District,0.9,Errand/Supplies
+"Wednesday, June 8, 2016","Wednesday, June 8, 2016",Business,Financial District,Kips Bay,4.8,Errand/Supplies
+"Friday, June 10, 2016","Friday, June 10, 2016",Business,New York,Jamaica,16.3,Meeting
+"Friday, June 10, 2016","Friday, June 10, 2016",Business,Cary,Durham,10.4,Meeting
+"Friday, June 10, 2016","Saturday, June 11, 2016",Business,Durham,Cary,9.9,Meeting
+"Saturday, June 11, 2016","Saturday, June 11, 2016",Business,Cary,Morrisville,3.7,Errand/Supplies
+"Saturday, June 11, 2016","Saturday, June 11, 2016",Business,Morrisville,Cary,4.6,Meal/Entertain
+"Saturday, June 11, 2016","Saturday, June 11, 2016",Business,Westpark Place,Whitebridge,1.7,
+"Saturday, June 11, 2016","Saturday, June 11, 2016",Business,Cary,Durham,10.4,Meeting
+"Saturday, June 11, 2016","Sunday, June 12, 2016",Business,Durham,Cary,9.9,Meeting
+"Sunday, June 12, 2016","Sunday, June 12, 2016",Business,Cary,Morrisville,2.5,Meal/Entertain
+"Sunday, June 12, 2016","Sunday, June 12, 2016",Business,Morrisville,Cary,4.3,Errand/Supplies
+"Sunday, June 12, 2016","Sunday, June 12, 2016",Business,Parkway,Whitebridge,2.8,Errand/Supplies
+"Monday, June 13, 2016","Monday, June 13, 2016",Business,Cary,Morrisville,8.4,Meal/Entertain
+"Monday, June 13, 2016","Monday, June 13, 2016",Business,Oakland,Emeryville,13.2,Meeting
+"Monday, June 13, 2016","Monday, June 13, 2016",Business,Emeryville,Berkeley,3.9,Meal/Entertain
+"Monday, June 13, 2016","Monday, June 13, 2016",Business,Berkeley,Oakland,5.1,Meal/Entertain
+"Monday, June 13, 2016","Monday, June 13, 2016",Business,Oakland,Unknown Location,5.2,Customer Visit
+"Tuesday, June 14, 2016","Tuesday, June 14, 2016",Business,Emeryville,San Francisco,9.8,
+"Tuesday, June 14, 2016","Tuesday, June 14, 2016",Business,San Francisco,Emeryville,11.6,Meeting
+"Tuesday, June 14, 2016","Tuesday, June 14, 2016",Business,Emeryville,Oakland,5.1,Meeting
+"Tuesday, June 14, 2016","Tuesday, June 14, 2016",Business,Downtown,Bay Farm Island,9.3,Errand/Supplies
+"Wednesday, June 15, 2016","Wednesday, June 15, 2016",Business,Kenner,New Orleans,12.4,Between Offices
+"Wednesday, June 15, 2016","Wednesday, June 15, 2016",Business,CBD,Lower Garden District,1.9,Between Offices
+"Wednesday, June 15, 2016","Wednesday, June 15, 2016",Business,Lower Garden District,Lakeview,6.4,Customer Visit
+"Wednesday, June 15, 2016","Wednesday, June 15, 2016",Personal,Lakeview,Storyville,5.5,
+"Wednesday, June 15, 2016","Wednesday, June 15, 2016",Business,Storyville,Faubourg Marigny,1.5,Meal/Entertain
+"Thursday, June 16, 2016","Thursday, June 16, 2016",Business,New Orleans,Metairie,14.5,
+"Thursday, June 16, 2016","Thursday, June 16, 2016",Business,Metairie,Kenner,2.7,
+"Thursday, June 16, 2016","Thursday, June 16, 2016",Business,Kenner,New Orleans,15,
+"Thursday, June 16, 2016","Thursday, June 16, 2016",Business,New Orleans,Kenner,12.9,
+"Thursday, June 16, 2016","Thursday, June 16, 2016",Business,Kenner,New Orleans,13.6,
+"Friday, June 17, 2016","Friday, June 17, 2016",Business,New Orleans,Kenner,12.2,
+"Saturday, June 18, 2016","Saturday, June 18, 2016",Business,Morrisville,Cary,8.7,
+"Sunday, June 19, 2016","Sunday, June 19, 2016",Business,Cary,Raleigh,6,
+"Sunday, June 19, 2016","Sunday, June 19, 2016",Business,Raleigh,Cary,5.9,
+"Tuesday, June 21, 2016","Tuesday, June 21, 2016",Business,Cary,Raleigh,19.3,
+"Tuesday, June 21, 2016","Tuesday, June 21, 2016",Business,Raleigh,Cary,16.6,Meal/Entertain
+"Friday, June 24, 2016","Friday, June 24, 2016",Business,Whitebridge,Waverly Place,7.1,Meal/Entertain
+"Friday, June 24, 2016","Friday, June 24, 2016",Business,Waverly Place,Macgregor Downs,2.1,Meal/Entertain
+"Friday, June 24, 2016","Friday, June 24, 2016",Business,Cary,Raleigh,8.6,Errand/Supplies
+"Friday, June 24, 2016","Friday, June 24, 2016",Business,Raleigh,Morrisville,9,Errand/Supplies
+"Friday, June 24, 2016","Friday, June 24, 2016",Business,Morrisville,Cary,3.1,Errand/Supplies
+"Friday, June 24, 2016","Friday, June 24, 2016",Business,Cary,Morrisville,8.4,Temporary Site
+"Friday, June 24, 2016","Friday, June 24, 2016",Business,Kenner,New Orleans,12.8,
+"Saturday, June 25, 2016","Saturday, June 25, 2016",Business,CBD,Bywater,4.5,
+"Saturday, June 25, 2016","Saturday, June 25, 2016",Business,New Orleans,Chalmette,11.8,Between Offices
+"Saturday, June 25, 2016","Saturday, June 25, 2016",Business,Chalmette,Arabi,1.1,Errand/Supplies
+"Saturday, June 25, 2016","Saturday, June 25, 2016",Business,Arabi,Metairie,17,Meal/Entertain
+"Saturday, June 25, 2016","Saturday, June 25, 2016",Business,Pontchartrain Shores,Pontchartrain Shores,1.7,Meeting
+"Saturday, June 25, 2016","Saturday, June 25, 2016",Business,Metairie,New Orleans,15.5,Meeting
+"Saturday, June 25, 2016","Saturday, June 25, 2016",Business,Storyville,Marigny,1.6,
+"Saturday, June 25, 2016","Saturday, June 25, 2016",Business,Marigny,Storyville,1.5,
+"Sunday, June 26, 2016","Sunday, June 26, 2016",Business,New Orleans,Kenner,12.6,Meeting
+"Sunday, June 26, 2016","Sunday, June 26, 2016",Business,Pontchartrain Shores,Pontchartrain Shores,4.8,
+"Sunday, June 26, 2016","Sunday, June 26, 2016",Business,Kenner,Kenner,2.2,
+"Sunday, June 26, 2016","Sunday, June 26, 2016",Business,Kenner,New Orleans,13,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,New Orleans,Covington,46.9,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Covington,Covington,2.5,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Covington,Covington,8.6,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Covington,Covington,5.2,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Covington,Covington,7.6,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Covington,Covington,1.8,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Covington,Mandeville,4.7,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Mandeville,Mandeville,2.8,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Mandeville,Metairie,30,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Metairie,Kenner,4.4,
+"Monday, June 27, 2016","Monday, June 27, 2016",Business,Jamestown Court,Jamestown Court,1,
+"Tuesday, June 28, 2016","Tuesday, June 28, 2016",Business,Morrisville,Cary,8.2,Customer Visit
+"Tuesday, June 28, 2016","Tuesday, June 28, 2016",Business,Cary,Durham,10.4,Meeting
+"Tuesday, June 28, 2016","Tuesday, June 28, 2016",Business,Durham,Cary,9.9,Meeting
+"Tuesday, June 28, 2016","Tuesday, June 28, 2016",Business,Durham,Cary,9.9,Meeting
+"Wednesday, June 29, 2016","Wednesday, June 29, 2016",Business,Cary,Morrisville,7.3,
+"Wednesday, June 29, 2016","Wednesday, June 29, 2016",Business,Morrisville,Cary,7.4,
+"Wednesday, June 29, 2016","Wednesday, June 29, 2016",Business,Whitebridge,Westpark Place,1.6,
+"Wednesday, June 29, 2016","Wednesday, June 29, 2016",Business,Westpark Place,Whitebridge,1.8,
+"Wednesday, June 29, 2016","Wednesday, June 29, 2016",Business,Cary,Durham,10.4,Meeting
+"Wednesday, June 29, 2016","Thursday, June 30, 2016",Business,Durham,Cary,9.9,Meeting
+"Thursday, June 30, 2016","Thursday, June 30, 2016",Business,Cary,Durham,9.9,Meeting
+"Friday, July 1, 2016","Friday, July 1, 2016",Business,Durham,Cary,9.9,Meeting
+"Friday, July 1, 2016","Friday, July 1, 2016",Business,Cary,Raleigh,13.3,Meeting
+"Friday, July 1, 2016","Friday, July 1, 2016",Business,Raleigh,Cary,11.3,Meeting
+"Friday, July 1, 2016","Friday, July 1, 2016",Business,Cary,Durham,10.5,Meeting
+"Friday, July 1, 2016","Saturday, July 2, 2016",Business,Durham,Cary,9.9,Meeting
+"Saturday, July 2, 2016","Saturday, July 2, 2016",Business,Cary,Durham,10.1,Meeting
+"Saturday, July 2, 2016","Sunday, July 3, 2016",Business,Durham,Cary,9.9,Meeting
+"Sunday, July 3, 2016","Sunday, July 3, 2016",Business,Cary,Morrisville,3.1,Errand/Supplies
+"Sunday, July 3, 2016","Sunday, July 3, 2016",Business,Morrisville,Cary,3.1,Errand/Supplies
+"Sunday, July 3, 2016","Sunday, July 3, 2016",Business,Cary,Durham,9.9,Meeting
+"Monday, July 4, 2016","Monday, July 4, 2016",Business,Durham,Cary,9.9,Meeting
+"Monday, July 4, 2016","Monday, July 4, 2016",Business,Whitebridge,Summerwinds,8.8,Meeting
+"Monday, July 4, 2016","Monday, July 4, 2016",Business,Summerwinds,Whitebridge,8.7,Temporary Site
+"Monday, July 4, 2016","Monday, July 4, 2016",Business,Cary,Durham,11.8,Meeting
+"Tuesday, July 5, 2016","Tuesday, July 5, 2016",Business,Parkwood,Parkwood,1.2,Errand/Supplies
+"Tuesday, July 5, 2016","Tuesday, July 5, 2016",Business,Durham,Cary,9.9,Meeting
+"Tuesday, July 5, 2016","Tuesday, July 5, 2016",Business,Whitebridge,Whitebridge,0.6,Errand/Supplies
+"Tuesday, July 5, 2016","Tuesday, July 5, 2016",Business,Cary,Durham,9.9,
+"Tuesday, July 5, 2016","Tuesday, July 5, 2016",Business,Durham,Morrisville,8.6,
+"Wednesday, July 6, 2016","Wednesday, July 6, 2016",Business,Morrisville,Cary,6.3,Meal/Entertain
+"Wednesday, July 6, 2016","Wednesday, July 6, 2016",Business,Cary,Durham,9.9,Meeting
+"Wednesday, July 6, 2016","Wednesday, July 6, 2016",Business,Durham,Cary,9.9,
+"Wednesday, July 6, 2016","Wednesday, July 6, 2016",Business,Cary,Morrisville,3.3,Meal/Entertain
+"Wednesday, July 6, 2016","Wednesday, July 6, 2016",Business,Morrisville,Cary,3.1,Customer Visit
+"Thursday, July 7, 2016","Thursday, July 7, 2016",Business,Cary,Morrisville,7.9,Temporary Site
+"Thursday, July 7, 2016","Thursday, July 7, 2016",Business,Morrisville,Cary,8.9,
+"Thursday, July 7, 2016","Thursday, July 7, 2016",Business,Kenner,New Orleans,12.8,
+"Friday, July 8, 2016","Friday, July 8, 2016",Business,CBD,Pontchartrain Beach,7.7,
+"Friday, July 8, 2016","Friday, July 8, 2016",Business,Pontchartrain Beach,CBD,7,
+"Friday, July 8, 2016","Friday, July 8, 2016",Business,New Orleans,Metairie,12.5,
+"Friday, July 8, 2016","Friday, July 8, 2016",Business,Kenner,New Orleans,13.2,
+"Saturday, July 9, 2016","Saturday, July 9, 2016",Business,New Orleans,Kenner,13,
+"Saturday, July 9, 2016","Saturday, July 9, 2016",Business,Kenner,Metairie,4.9,
+"Saturday, July 9, 2016","Saturday, July 9, 2016",Business,Metairie,New Orleans,8.5,
+"Sunday, July 10, 2016","Sunday, July 10, 2016",Business,CBD,St Thomas,1.3,
+"Sunday, July 10, 2016","Sunday, July 10, 2016",Business,St Thomas,CBD,1.8,
+"Sunday, July 10, 2016","Sunday, July 10, 2016",Business,New Orleans,Kenner,13.6,
+"Sunday, July 10, 2016","Sunday, July 10, 2016",Business,Kenner,New Orleans,13.4,
+"Tuesday, July 12, 2016","Tuesday, July 12, 2016",Business,New Orleans,Kenner,12.3,
+"Tuesday, July 12, 2016","Tuesday, July 12, 2016",Personal,Kenner,Kenner,1.4,
+"Tuesday, July 12, 2016","Wednesday, July 13, 2016",Personal,Morrisville,Cary,8.7,
+"Wednesday, July 13, 2016","Wednesday, July 13, 2016",Personal,Cary,Morrisville,23.5,
+"Wednesday, July 13, 2016","Wednesday, July 13, 2016",Personal,Morrisville,Morrisville,2.2,
+"Wednesday, July 13, 2016","Wednesday, July 13, 2016",Personal,Morrisville,Cary,4.4,
+"Thursday, July 14, 2016","Thursday, July 14, 2016",Personal,Cary,Morrisville,3.3,
+"Thursday, July 14, 2016","Thursday, July 14, 2016",Business,Morrisville,Morrisville,11.8,Errand/Supplies
+"Thursday, July 14, 2016","Thursday, July 14, 2016",Business,Morrisville,Banner Elk,195.3,
+"Friday, July 15, 2016","Friday, July 15, 2016",Personal,Banner Elk,Banner Elk,8.3,
+"Friday, July 15, 2016","Friday, July 15, 2016",Personal,Banner Elk,Banner Elk,3.2,
+"Friday, July 15, 2016","Friday, July 15, 2016",Personal,Banner Elk,Elk Park,22.4,
+"Friday, July 15, 2016","Friday, July 15, 2016",Personal,Elk Park,Banner Elk,12.2,
+"Friday, July 15, 2016","Friday, July 15, 2016",Personal,Banner Elk,Banner Elk,4.5,
+"Saturday, July 16, 2016","Saturday, July 16, 2016",Personal,Banner Elk,Newland,28.1,
+"Saturday, July 16, 2016","Saturday, July 16, 2016",Personal,Newland,Newland,3.8,
+"Saturday, July 16, 2016","Saturday, July 16, 2016",Personal,Newland,Boone,41.9,
+"Saturday, July 16, 2016","Saturday, July 16, 2016",Personal,Boone,Banner Elk,23.8,
+"Saturday, July 16, 2016","Saturday, July 16, 2016",Personal,Banner Elk,Banner Elk,13,
+"Saturday, July 16, 2016","Saturday, July 16, 2016",Business,Banner Elk,Banner Elk,4.4,Errand/Supplies
+"Sunday, July 17, 2016","Sunday, July 17, 2016",Personal,Banner Elk,Boone,15.1,Charity ($)
+"Sunday, July 17, 2016","Sunday, July 17, 2016",Personal,Boone,Cary,180.2,Commute
+"Monday, July 18, 2016","Monday, July 18, 2016",Personal,Cary,Morrisville,4.1,Moving
+"Monday, July 18, 2016","Monday, July 18, 2016",Personal,Morrisville,Cary,6.1,Moving
+"Monday, July 18, 2016","Monday, July 18, 2016",Personal,Northwoods,Preston,3.3,Moving
+"Monday, July 18, 2016","Monday, July 18, 2016",Personal,Preston,Whitebridge,4.7,Moving
+"Monday, July 18, 2016","Monday, July 18, 2016",Business,Cary,Apex,7.2,Meeting
+"Monday, July 18, 2016","Monday, July 18, 2016",Business,Apex,Cary,5.5,Meal/Entertain
+"Monday, July 18, 2016","Monday, July 18, 2016",Business,Cary,Morrisville,3.3,Meal/Entertain
+"Monday, July 18, 2016","Monday, July 18, 2016",Business,Hazelwood,Weston,0.9,Errand/Supplies
+"Monday, July 18, 2016","Monday, July 18, 2016",Business,Morrisville,Cary,3.8,Meal/Entertain
+"Tuesday, July 19, 2016","Tuesday, July 19, 2016",Business,Whitebridge,Stonewater,6.4,Customer Visit
+"Tuesday, July 19, 2016","Tuesday, July 19, 2016",Business,Stonewater,Lexington Park at Amberly,3,Meeting
+"Tuesday, July 19, 2016","Tuesday, July 19, 2016",Business,Lexington Park at Amberly,Whitebridge,8.7,Meal/Entertain
+"Tuesday, July 19, 2016","Tuesday, July 19, 2016",Business,Whitebridge,Chessington,3.9,Errand/Supplies
+"Tuesday, July 19, 2016","Tuesday, July 19, 2016",Personal,Chessington,Whitebridge,4.8,
+"Wednesday, July 20, 2016","Wednesday, July 20, 2016",Personal,Whitebridge,Edgehill Farms,2.8,
+"Wednesday, July 20, 2016","Wednesday, July 20, 2016",Personal,Edgehill Farms,Preston,1.4,
+"Wednesday, July 20, 2016","Wednesday, July 20, 2016",Personal,Preston,Whitebridge,1.4,
+"Thursday, July 21, 2016","Thursday, July 21, 2016",Business,Whitebridge,Edgehill Farms,2.7,
+"Thursday, July 21, 2016","Thursday, July 21, 2016",Business,Edgehill Farms,Burtrose,2.3,
+"Thursday, July 21, 2016","Thursday, July 21, 2016",Business,Cary,Morrisville,3.7,
+"Thursday, July 21, 2016","Thursday, July 21, 2016",Business,Morrisville,Cary,2.9,
+"Friday, July 22, 2016","Friday, July 22, 2016",Business,Cary,Morrisville,3.8,
+"Friday, July 22, 2016","Friday, July 22, 2016",Business,Morrisville,Cary,5.1,
+"Friday, July 22, 2016","Friday, July 22, 2016",Business,Hazelwood,Lexington Park at Amberly,9.1,
+"Friday, July 22, 2016","Friday, July 22, 2016",Business,Cary,Durham,8,
+"Friday, July 22, 2016","Friday, July 22, 2016",Business,Durham,Cary,9.9,Meeting
+"Friday, July 22, 2016","Friday, July 22, 2016",Business,Cary,Morrisville,6.1,Meal/Entertain
+"Friday, July 22, 2016","Friday, July 22, 2016",Business,Morrisville,Cary,12.2,
+"Friday, July 22, 2016","Friday, July 22, 2016",Business,Wayne Ridge,Whitebridge,8,
+"Saturday, July 23, 2016","Saturday, July 23, 2016",Business,Cary,Morrisville,4,
+"Saturday, July 23, 2016","Saturday, July 23, 2016",Business,Morrisville,Cary,9.5,
+"Saturday, July 23, 2016","Saturday, July 23, 2016",Business,Cary,Morrisville,3,
+"Saturday, July 23, 2016","Saturday, July 23, 2016",Business,Morrisville,Cary,6.3,
+"Saturday, July 23, 2016","Saturday, July 23, 2016",Business,Cary,Durham,10.4,Meeting
+"Saturday, July 23, 2016","Saturday, July 23, 2016",Business,Durham,Cary,9.9,Meeting
+"Monday, July 25, 2016","Monday, July 25, 2016",Business,Whitebridge,Parkway,1.5,
+"Monday, July 25, 2016","Monday, July 25, 2016",Business,Cary,Morrisville,4.9,
+"Monday, July 25, 2016","Monday, July 25, 2016",Business,Morrisville,Cary,7.9,
+"Monday, July 25, 2016","Monday, July 25, 2016",Business,Parkway,Whitebridge,1.7,
+"Tuesday, July 26, 2016","Tuesday, July 26, 2016",Business,Whitebridge,Westpark Place,2.2,
+"Tuesday, July 26, 2016","Tuesday, July 26, 2016",Business,Westpark Place,Whitebridge,2.1,
+"Tuesday, July 26, 2016","Tuesday, July 26, 2016",Business,Cary,Morrisville,2.5,Meal/Entertain
+"Tuesday, July 26, 2016","Tuesday, July 26, 2016",Business,Morrisville,Cary,2.5,Meal/Entertain
+"Wednesday, July 27, 2016","Wednesday, July 27, 2016",Business,Cary,Morrisville,2.8,
+"Wednesday, July 27, 2016","Wednesday, July 27, 2016",Business,Morrisville,Raleigh,14.7,
+"Wednesday, July 27, 2016","Wednesday, July 27, 2016",Business,Raleigh,Morrisville,14.6,
+"Thursday, July 28, 2016","Thursday, July 28, 2016",Business,Morrisville,Cary,2.3,
+"Friday, July 29, 2016","Friday, July 29, 2016",Business,Whitebridge,Westpark Place,2.2,
+"Friday, July 29, 2016","Friday, July 29, 2016",Business,Westpark Place,Whitebridge,2.2,Meal/Entertain
+"Saturday, July 30, 2016","Saturday, July 30, 2016",Business,Cary,Durham,14,
+"Saturday, July 30, 2016","Saturday, July 30, 2016",Business,Durham,Cary,13.3,
+"Sunday, July 31, 2016","Sunday, July 31, 2016",Business,Westpark Place,Whitebridge,1.8,
+"Monday, August 1, 2016","Monday, August 1, 2016",Business,Whitebridge,Arlington Park at Amberly,6.2,
+"Monday, August 1, 2016","Monday, August 1, 2016",Business,Arlington Park at Amberly,Lexington Park at Amberly,1.3,
+"Monday, August 1, 2016","Monday, August 1, 2016",Business,Lexington Park at Amberly,Westpark Place,1.9,
+"Monday, August 1, 2016","Monday, August 1, 2016",Business,Cary,Apex,6.9,
+"Monday, August 1, 2016","Monday, August 1, 2016",Business,Apex,Cary,4.6,
+"Monday, August 1, 2016","Monday, August 1, 2016",Business,Whitebridge,Edgehill Farms,2.8,
+"Monday, August 1, 2016","Monday, August 1, 2016",Business,Cary,Morrisville,9.1,
+"Monday, August 1, 2016","Monday, August 1, 2016",Business,Morrisville,Cary,8.1,
+"Tuesday, August 2, 2016","Tuesday, August 2, 2016",Business,Cary,Morrisville,8.4,Meeting
+"Tuesday, August 2, 2016","Tuesday, August 2, 2016",Business,Arlington,Washington,4.9,
+"Tuesday, August 2, 2016","Tuesday, August 2, 2016",Business,Kalorama Triangle,K Street,1,
+"Tuesday, August 2, 2016","Tuesday, August 2, 2016",Business,K Street,Kalorama Triangle,1,
+"Wednesday, August 3, 2016","Wednesday, August 3, 2016",Business,West End,Northwest Rectangle,2,
+"Wednesday, August 3, 2016","Wednesday, August 3, 2016",Business,K Street,Kalorama Triangle,1.1,
+"Wednesday, August 3, 2016","Wednesday, August 3, 2016",Business,Kalorama Triangle,Downtown,1.5,
+"Friday, August 5, 2016","Friday, August 5, 2016",Business,Connecticut Avenue,Kalorama Triangle,1.3,
+"Friday, August 5, 2016","Friday, August 5, 2016",Business,Kalorama Triangle,Columbia Heights,1.8,
+"Friday, August 5, 2016","Friday, August 5, 2016",Business,Columbia Heights,Kalorama Triangle,1.5,
+"Saturday, August 6, 2016","Saturday, August 6, 2016",Business,Washington,Arlington,6.6,
+"Saturday, August 6, 2016","Saturday, August 6, 2016",Business,Morrisville,Cary,8,
+"Sunday, August 7, 2016","Sunday, August 7, 2016",Business,Whitebridge,Edgehill Farms,2.7,
+"Sunday, August 7, 2016","Sunday, August 7, 2016",Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
+"Sunday, August 7, 2016","Sunday, August 7, 2016",Business,Cary,Morrisville,2.5,
+"Sunday, August 7, 2016","Sunday, August 7, 2016",Business,Morrisville,Cary,2.5,Meal/Entertain
+"Monday, August 8, 2016","Monday, August 8, 2016",Business,Whitebridge,Farmington Woods,5.2,
+"Monday, August 8, 2016","Monday, August 8, 2016",Business,Farmington Woods,Edgehill Farms,4,
+"Monday, August 8, 2016","Monday, August 8, 2016",Business,Edgehill Farms,Whitebridge,2.7,Customer Visit
+"Monday, August 8, 2016","Monday, August 8, 2016",Business,Cary,Morrisville,4.8,
+"Monday, August 8, 2016","Monday, August 8, 2016",Business,Morrisville,Cary,3.2,Customer Visit
+"Tuesday, August 9, 2016","Tuesday, August 9, 2016",Business,Whitebridge,Waverly Place,6.9,
+"Tuesday, August 9, 2016","Tuesday, August 9, 2016",Business,Cary,Raleigh,14.9,
+"Tuesday, August 9, 2016","Tuesday, August 9, 2016",Business,Raleigh,Cary,17.4,
+"Wednesday, August 10, 2016","Wednesday, August 10, 2016",Business,Cary,Durham,12.9,
+"Wednesday, August 10, 2016","Wednesday, August 10, 2016",Business,Durham,Apex,15.3,
+"Wednesday, August 10, 2016","Wednesday, August 10, 2016",Business,Apex,Apex,1,
+"Wednesday, August 10, 2016","Wednesday, August 10, 2016",Business,Apex,Cary,6,
+"Thursday, August 11, 2016","Thursday, August 11, 2016",Business,Whitebridge,Heritage Pines,2.2,
+"Thursday, August 11, 2016","Thursday, August 11, 2016",Business,Heritage Pines,Edgehill Farms,4.4,
+"Thursday, August 11, 2016","Thursday, August 11, 2016",Business,Edgehill Farms,Whitebridge,2.8,
+"Thursday, August 11, 2016","Thursday, August 11, 2016",Business,Cary,Wake Forest,31.7,
+"Thursday, August 11, 2016","Thursday, August 11, 2016",Business,Wake Forest,Cary,31.9,
+"Friday, August 12, 2016","Friday, August 12, 2016",Business,Whitebridge,Westpark Place,1.9,
+"Friday, August 12, 2016","Friday, August 12, 2016",Business,Westpark Place,Whitebridge,1.8,
+"Saturday, August 13, 2016","Saturday, August 13, 2016",Business,Cary,Morrisville,8.4,Meeting
+"Monday, August 15, 2016","Monday, August 15, 2016",Business,R?walpindi,Unknown Location,15.6,
+"Monday, August 15, 2016","Monday, August 15, 2016",Business,Unknown Location,Unknown Location,14.1,
+"Monday, August 15, 2016","Monday, August 15, 2016",Business,Unknown Location,Unknown Location,15.7,
+"Monday, August 15, 2016","Monday, August 15, 2016",Business,Unknown Location,Unknown Location,25.9,Temporary Site
+"Tuesday, August 16, 2016","Tuesday, August 16, 2016",Business,Unknown Location,Unknown Location,7.9,
+"Tuesday, August 16, 2016","Tuesday, August 16, 2016",Business,Unknown Location,Unknown Location,2.7,
+"Tuesday, August 16, 2016","Tuesday, August 16, 2016",Business,Unknown Location,Unknown Location,5.5,
+"Tuesday, August 16, 2016","Tuesday, August 16, 2016",Business,Unknown Location,Islamabad,5.7,
+"Tuesday, August 16, 2016","Tuesday, August 16, 2016",Business,Islamabad,Islamabad,1.2,
+"Tuesday, August 16, 2016","Tuesday, August 16, 2016",Business,Islamabad,Unknown Location,5.7,Temporary Site
+"Tuesday, August 16, 2016","Tuesday, August 16, 2016",Business,Unknown Location,Unknown Location,16.2,
+"Wednesday, August 17, 2016","Wednesday, August 17, 2016",Business,Unknown Location,Unknown Location,2.6,
+"Wednesday, August 17, 2016","Wednesday, August 17, 2016",Business,Unknown Location,Unknown Location,12.1,
+"Wednesday, August 17, 2016","Wednesday, August 17, 2016",Business,Unknown Location,R?walpindi,1.4,
+"Wednesday, August 17, 2016","Wednesday, August 17, 2016",Business,R?walpindi,Islamabad,6.4,
+"Wednesday, August 17, 2016","Wednesday, August 17, 2016",Business,Islamabad,Unknown Location,7.3,
+"Wednesday, August 17, 2016","Wednesday, August 17, 2016",Business,Unknown Location,Unknown Location,5.3,
+"Wednesday, August 17, 2016","Wednesday, August 17, 2016",Business,Unknown Location,Unknown Location,5.5,
+"Wednesday, August 17, 2016","Wednesday, August 17, 2016",Business,Unknown Location,Unknown Location,7.7,Temporary Site
+"Thursday, August 18, 2016","Thursday, August 18, 2016",Business,Unknown Location,Unknown Location,7.6,Temporary Site
+"Friday, August 19, 2016","Friday, August 19, 2016",Business,Unknown Location,Noorpur Shahan,7.6,
+"Friday, August 19, 2016","Friday, August 19, 2016",Business,Noorpur Shahan,Islamabad,3.3,
+"Friday, August 19, 2016","Friday, August 19, 2016",Business,Islamabad,R?walpindi,6.5,
+"Friday, August 19, 2016","Friday, August 19, 2016",Business,R?walpindi,Unknown Location,2,
+"Friday, August 19, 2016","Friday, August 19, 2016",Business,Unknown Location,Islamabad,5.7,
+"Friday, August 19, 2016","Friday, August 19, 2016",Business,Islamabad,Islamabad,3.2,
+"Friday, August 19, 2016","Friday, August 19, 2016",Business,Islamabad,Unknown Location,12.5,
+"Sunday, August 21, 2016","Sunday, August 21, 2016",Business,Unknown Location,Unknown Location,7.6,Airport/Travel
+"Sunday, August 21, 2016","Sunday, August 21, 2016",Business,Unknown Location,Unknown Location,7.7,
+"Sunday, August 21, 2016","Sunday, August 21, 2016",Business,Unknown Location,Islamabad,12.2,
+"Sunday, August 21, 2016","Sunday, August 21, 2016",Business,Islamabad,Islamabad,1.4,
+"Sunday, August 21, 2016","Sunday, August 21, 2016",Business,Islamabad,Unknown Location,20.2,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,Unknown Location,Islamabad,9.8,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,Islamabad,Unknown Location,6.3,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,Unknown Location,Islamabad,4.9,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,Islamabad,Islamabad,1.5,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,Islamabad,Unknown Location,10.9,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,Unknown Location,Unknown Location,19,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,Unknown Location,Unknown Location,19,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,Unknown Location,R?walpindi,7.9,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,R?walpindi,R?walpindi,4.1,
+"Monday, August 22, 2016","Monday, August 22, 2016",Business,R?walpindi,Unknown Location,18.7,
+"Tuesday, August 23, 2016","Tuesday, August 23, 2016",Business,Unknown Location,Noorpur Shahan,8.7,
+"Tuesday, August 23, 2016","Tuesday, August 23, 2016",Business,Noorpur Shahan,Unknown Location,7.5,
+"Tuesday, August 23, 2016","Tuesday, August 23, 2016",Business,Unknown Location,Noorpur Shahan,7.7,
+"Tuesday, August 23, 2016","Tuesday, August 23, 2016",Business,Noorpur Shahan,Islamabad,4.4,
+"Tuesday, August 23, 2016","Tuesday, August 23, 2016",Business,Islamabad,Unknown Location,5,
+"Tuesday, August 23, 2016","Tuesday, August 23, 2016",Business,Unknown Location,Unknown Location,1.9,
+"Tuesday, August 23, 2016","Tuesday, August 23, 2016",Business,Unknown Location,Unknown Location,7.9,
+"Tuesday, August 23, 2016","Tuesday, August 23, 2016",Business,Unknown Location,Unknown Location,17.7,
+"Wednesday, August 24, 2016","Wednesday, August 24, 2016",Business,Unknown Location,Unknown Location,25.2,
+"Wednesday, August 24, 2016","Wednesday, August 24, 2016",Business,Unknown Location,Unknown Location,96.2,
+"Thursday, August 25, 2016","Thursday, August 25, 2016",Business,Unknown Location,Unknown Location,35,
+"Thursday, August 25, 2016","Thursday, August 25, 2016",Business,Unknown Location,Unknown Location,5.5,
+"Thursday, August 25, 2016","Thursday, August 25, 2016",Business,Unknown Location,Unknown Location,50.4,
+"Thursday, August 25, 2016","Thursday, August 25, 2016",Business,Unknown Location,Lahore,9.2,
+"Thursday, August 25, 2016","Thursday, August 25, 2016",Business,Lahore,Unknown Location,7.3,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Unknown Location,Unknown Location,5,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Unknown Location,Unknown Location,3.8,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Unknown Location,Lahore,3.9,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Lahore,Lahore,7.4,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Lahore,Lahore,1.5,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Lahore,Unknown Location,7.9,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Unknown Location,Lahore,2.9,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Lahore,Lahore,3.4,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Lahore,Lahore,3.8,
+"Friday, August 26, 2016","Friday, August 26, 2016",Business,Lahore,Unknown Location,5.9,
+"Saturday, August 27, 2016","Saturday, August 27, 2016",Business,Unknown Location,Lahore,9.6,
+"Saturday, August 27, 2016","Saturday, August 27, 2016",Business,Lahore,Lahore,7,
+"Saturday, August 27, 2016","Saturday, August 27, 2016",Business,Lahore,Lahore,0.9,
+"Saturday, August 27, 2016","Saturday, August 27, 2016",Business,Lahore,Unknown Location,86.6,
+"Saturday, August 27, 2016","Saturday, August 27, 2016",Business,Unknown Location,Unknown Location,156.9,
+"Sunday, August 28, 2016","Sunday, August 28, 2016",Business,Unknown Location,Noorpur Shahan,10.1,
+"Sunday, August 28, 2016","Sunday, August 28, 2016",Business,Noorpur Shahan,Islamabad,6.2,
+"Sunday, August 28, 2016","Sunday, August 28, 2016",Business,Islamabad,Islamabad,5.3,
+"Sunday, August 28, 2016","Sunday, August 28, 2016",Business,Islamabad,Unknown Location,12.1,
+"Monday, August 29, 2016","Monday, August 29, 2016",Business,Unknown Location,Islamabad,10.8,
+"Monday, August 29, 2016","Monday, August 29, 2016",Business,Islamabad,Islamabad,4.3,
+"Monday, August 29, 2016","Monday, August 29, 2016",Business,Islamabad,Islamabad,2.5,
+"Monday, August 29, 2016","Monday, August 29, 2016",Business,Islamabad,Unknown Location,5.7,Temporary Site
+"Monday, August 29, 2016","Monday, August 29, 2016",Business,Unknown Location,Islamabad,2.8,
+"Monday, August 29, 2016","Monday, August 29, 2016",Business,Islamabad,Unknown Location,4,
+"Monday, August 29, 2016","Monday, August 29, 2016",Business,Unknown Location,Islamabad,5.5,
+"Monday, August 29, 2016","Monday, August 29, 2016",Business,Islamabad,Islamabad,2.6,
+"Tuesday, August 30, 2016","Tuesday, August 30, 2016",Business,Unknown Location,Unknown Location,2.1,
+"Tuesday, August 30, 2016","Tuesday, August 30, 2016",Business,Unknown Location,Islamabad,8.8,
+"Tuesday, August 30, 2016","Tuesday, August 30, 2016",Business,Islamabad,Islamabad,4.4,
+"Tuesday, August 30, 2016","Tuesday, August 30, 2016",Business,Islamabad,Unknown Location,5.3,
+"Tuesday, August 30, 2016","Tuesday, August 30, 2016",Business,Unknown Location,Unknown Location,13,
+"Thursday, September 1, 2016","Thursday, September 1, 2016",Business,Unknown Location,Islamabad,13,
+"Thursday, September 1, 2016","Thursday, September 1, 2016",Business,Islamabad,Unknown Location,10.6,
+"Thursday, September 1, 2016","Thursday, September 1, 2016",Business,Unknown Location,Unknown Location,2.2,
+"Friday, September 2, 2016","Friday, September 2, 2016",Business,Unknown Location,Islamabad,9.2,
+"Friday, September 2, 2016","Friday, September 2, 2016",Business,Unknown Location,Unknown Location,12.9,
+"Monday, September 5, 2016","Monday, September 5, 2016",Business,Unknown Location,R?walpindi,17.2,
+"Tuesday, September 6, 2016","Tuesday, September 6, 2016",Business,Unknown Location,Unknown Location,69.1,
+"Saturday, September 10, 2016","Saturday, September 10, 2016",Business,Unknown Location,Unknown Location,2.8,
+"Sunday, September 11, 2016","Sunday, September 11, 2016",Business,Unknown Location,Unknown Location,8.6,
+"Sunday, September 11, 2016","Sunday, September 11, 2016",Business,Unknown Location,Unknown Location,9.8,
+"Monday, September 12, 2016","Monday, September 12, 2016",Business,Unknown Location,Unknown Location,3.6,
+"Monday, September 12, 2016","Monday, September 12, 2016",Business,Unknown Location,Unknown Location,1.7,
+"Monday, September 12, 2016","Monday, September 12, 2016",Business,Unknown Location,Unknown Location,11.5,
+"Tuesday, September 13, 2016","Tuesday, September 13, 2016",Business,Unknown Location,Unknown Location,0.7,
+"Wednesday, September 14, 2016","Wednesday, September 14, 2016",Business,Unknown Location,Unknown Location,0.7,
+"Thursday, September 15, 2016","Thursday, September 15, 2016",Business,Unknown Location,Unknown Location,0.9,
+"Friday, September 16, 2016","Friday, September 16, 2016",Business,Unknown Location,Unknown Location,1.6,
+"Sunday, September 18, 2016","Sunday, September 18, 2016",Business,Unknown Location,Unknown Location,9.4,
+"Monday, September 19, 2016","Monday, September 19, 2016",Business,R?walpindi,Unknown Location,18.2,
+"Monday, September 19, 2016","Monday, September 19, 2016",Business,Unknown Location,Islamabad,10.5,
+"Monday, September 19, 2016","Monday, September 19, 2016",Business,Islamabad,Unknown Location,5.7,
+"Monday, September 19, 2016","Monday, September 19, 2016",Business,Unknown Location,Unknown Location,18,
+"Monday, September 19, 2016","Monday, September 19, 2016",Business,Unknown Location,Islamabad,18.3,
+"Tuesday, September 20, 2016","Tuesday, September 20, 2016",Business,Islamabad,Unknown Location,16.5,
+"Tuesday, September 20, 2016","Tuesday, September 20, 2016",Business,Unknown Location,R?walpindi,9.6,
+"Friday, September 23, 2016","Friday, September 23, 2016",Business,Karachi,Karachi,2.9,
+"Saturday, September 24, 2016","Saturday, September 24, 2016",Business,Karachi,Unknown Location,8.2,
+"Saturday, September 24, 2016","Saturday, September 24, 2016",Business,Unknown Location,Unknown Location,2.4,
+"Tuesday, September 27, 2016","Tuesday, September 27, 2016",Business,Unknown Location,Unknown Location,5.8,
+"Tuesday, September 27, 2016","Tuesday, September 27, 2016",Business,Lahore,Lahore,9.8,
+"Tuesday, September 27, 2016","Tuesday, September 27, 2016",Business,Lahore,Unknown Location,7.3,
+"Tuesday, September 27, 2016","Wednesday, September 28, 2016",Business,Unknown Location,Unknown Location,195.6,
+"Wednesday, September 28, 2016","Wednesday, September 28, 2016",Business,Islamabad,Unknown Location,20.5,
+"Thursday, September 29, 2016","Thursday, September 29, 2016",Business,Unknown Location,Islamabad,12.6,
+"Friday, September 30, 2016","Friday, September 30, 2016",Business,Islamabad,Islamabad,37.7,
+"Friday, September 30, 2016","Friday, September 30, 2016",Business,Islamabad,Unknown Location,16.7,
+"Monday, October 3, 2016","Monday, October 3, 2016",Business,Unknown Location,Islamabad,10.5,
+"Monday, October 3, 2016","Monday, October 3, 2016",Business,Islamabad,Islamabad,2.8,
+"Monday, October 3, 2016","Monday, October 3, 2016",Business,Islamabad,Islamabad,1.6,
+"Monday, October 3, 2016","Monday, October 3, 2016",Business,Islamabad,Unknown Location,12.7,
+"Tuesday, October 4, 2016","Tuesday, October 4, 2016",Business,Unknown Location,Unknown Location,28.6,
+"Tuesday, October 4, 2016","Tuesday, October 4, 2016",Business,Unknown Location,Unknown Location,15.1,
+"Thursday, October 6, 2016","Thursday, October 6, 2016",Business,Unknown Location,R?walpindi,17.9,
+"Thursday, October 6, 2016","Thursday, October 6, 2016",Business,R?walpindi,Unknown Location,112.6,
+"Thursday, October 6, 2016","Thursday, October 6, 2016",Business,Unknown Location,Unknown Location,18.4,
+"Thursday, October 6, 2016","Thursday, October 6, 2016",Business,Unknown Location,Unknown Location,13.8,
+"Friday, October 7, 2016","Friday, October 7, 2016",Business,Unknown Location,Lahore,33.2,
+"Friday, October 7, 2016","Friday, October 7, 2016",Business,Lahore,Lahore,2.6,
+"Friday, October 7, 2016","Friday, October 7, 2016",Business,Lahore,Unknown Location,5.8,
+"Friday, October 7, 2016","Friday, October 7, 2016",Business,Unknown Location,Lahore,8.3,
+"Friday, October 7, 2016","Friday, October 7, 2016",Business,Lahore,Lahore,2.4,
+"Friday, October 7, 2016","Friday, October 7, 2016",Business,Lahore,Lahore,3.1,
+"Friday, October 7, 2016","Friday, October 7, 2016",Business,Lahore,Lahore,6.1,
+"Saturday, October 8, 2016","Saturday, October 8, 2016",Business,Karachi,Karachi,3.6,
+"Saturday, October 8, 2016","Saturday, October 8, 2016",Business,Karachi,Unknown Location,8,
+"Sunday, October 9, 2016","Sunday, October 9, 2016",Business,Unknown Location,Unknown Location,7.7,Temporary Site
+"Monday, October 10, 2016","Monday, October 10, 2016",Business,Islamabad,Islamabad,1.7,
+"Monday, October 10, 2016","Monday, October 10, 2016",Business,Islamabad,Unknown Location,9.5,
+"Tuesday, October 11, 2016","Tuesday, October 11, 2016",Business,Unknown Location,R?walpindi,17.1,Meeting
+"Wednesday, October 12, 2016","Wednesday, October 12, 2016",Business,R?walpindi,Unknown Location,18.4,
+"Thursday, October 13, 2016","Thursday, October 13, 2016",Business,Unknown Location,Islamabad,9.8,
+"Thursday, October 13, 2016","Thursday, October 13, 2016",Business,Islamabad,Islamabad,1,
+"Thursday, October 13, 2016","Thursday, October 13, 2016",Business,Islamabad,Islamabad,0.7,
+"Thursday, October 13, 2016","Thursday, October 13, 2016",Business,Islamabad,Islamabad,2.3,
+"Thursday, October 13, 2016","Thursday, October 13, 2016",Business,Islamabad,Unknown Location,10.9,
+"Friday, October 14, 2016","Friday, October 14, 2016",Business,Unknown Location,R?walpindi,12.7,
+"Friday, October 14, 2016","Friday, October 14, 2016",Business,R?walpindi,Unknown Location,12.4,
+"Friday, October 14, 2016","Friday, October 14, 2016",Business,Unknown Location,Unknown Location,3.8,
+"Friday, October 14, 2016","Saturday, October 15, 2016",Business,Unknown Location,R?walpindi,17,Meeting
+"Saturday, October 15, 2016","Saturday, October 15, 2016",Business,Morrisville,Morrisville,6.2,
+"Sunday, October 16, 2016","Sunday, October 16, 2016",Business,Morrisville,Cary,3.1,
+"Sunday, October 16, 2016","Sunday, October 16, 2016",Business,Cary,Durham,10.5,Meeting
+"Sunday, October 16, 2016","Sunday, October 16, 2016",Business,Durham,Morrisville,8.1,
+"Sunday, October 16, 2016","Sunday, October 16, 2016",Business,Morrisville,Cary,3.1,
+"Sunday, October 16, 2016","Sunday, October 16, 2016",Business,Whitebridge,Parkway,2.1,Meeting
+"Sunday, October 16, 2016","Sunday, October 16, 2016",Business,Cary,Morrisville,4.3,
+"Sunday, October 16, 2016","Sunday, October 16, 2016",Business,Morrisville,Cary,2.5,Meal/Entertain
+"Monday, October 17, 2016","Monday, October 17, 2016",Business,Cary,Raleigh,20.6,
+"Monday, October 17, 2016","Monday, October 17, 2016",Business,Raleigh,Cary,17.6,
+"Monday, October 17, 2016","Monday, October 17, 2016",Business,Cary,Apex,5.6,
+"Monday, October 17, 2016","Monday, October 17, 2016",Business,Apex,Apex,3.3,
+"Monday, October 17, 2016","Monday, October 17, 2016",Business,Apex,Cary,5.3,
+"Tuesday, October 18, 2016","Tuesday, October 18, 2016",Business,Whitebridge,Edgehill Farms,3.3,
+"Tuesday, October 18, 2016","Tuesday, October 18, 2016",Business,Edgehill Farms,Whitebridge,3.3,
+"Tuesday, October 18, 2016","Tuesday, October 18, 2016",Business,Cary,Morrisville,7.9,Temporary Site
+"Tuesday, October 18, 2016","Tuesday, October 18, 2016",Business,Oakland,Emeryville,13,
+"Tuesday, October 18, 2016","Tuesday, October 18, 2016",Business,Emeryville,Berkeley,3,
+"Tuesday, October 18, 2016","Tuesday, October 18, 2016",Business,Berkeley,Emeryville,3,
+"Wednesday, October 19, 2016","Wednesday, October 19, 2016",Business,Emeryville,Oakland,3.8,
+"Wednesday, October 19, 2016","Wednesday, October 19, 2016",Business,Oakland,San Francisco,9.5,
+"Wednesday, October 19, 2016","Wednesday, October 19, 2016",Business,SOMISSPO,French Quarter,1.7,
+"Wednesday, October 19, 2016","Wednesday, October 19, 2016",Business,San Francisco,Berkeley,10.8,
+"Wednesday, October 19, 2016","Wednesday, October 19, 2016",Business,West Berkeley,North Berkeley Hills,4.1,
+"Wednesday, October 19, 2016","Wednesday, October 19, 2016",Business,North Berkeley Hills,Southside,2.2,
+"Wednesday, October 19, 2016","Wednesday, October 19, 2016",Business,Berkeley,Emeryville,4.6,
+"Thursday, October 20, 2016","Thursday, October 20, 2016",Business,Emeryville,Berkeley,3.1,
+"Thursday, October 20, 2016","Thursday, October 20, 2016",Business,Berkeley,San Jose,47.7,
+"Thursday, October 20, 2016","Thursday, October 20, 2016",Business,San Jose,Emeryville,44.6,
+"Friday, October 21, 2016","Friday, October 21, 2016",Business,Emeryville,Oakland,13.2,
+"Saturday, October 22, 2016","Saturday, October 22, 2016",Business,Morrisville,Cary,8.7,
+"Saturday, October 22, 2016","Saturday, October 22, 2016",Business,Cary,Raleigh,17.2,
+"Saturday, October 22, 2016","Saturday, October 22, 2016",Business,Raleigh,Cary,14,
+"Sunday, October 23, 2016","Sunday, October 23, 2016",Business,Cary,Raleigh,28.1,
+"Sunday, October 23, 2016","Sunday, October 23, 2016",Business,Raleigh,Cary,28.2,
+"Sunday, October 23, 2016","Sunday, October 23, 2016",Business,Cary,Morrisville,3.1,Meal/Entertain
+"Sunday, October 23, 2016","Sunday, October 23, 2016",Business,Morrisville,Cary,3.1,Customer Visit
+"Monday, October 24, 2016","Monday, October 24, 2016",Business,Cary,Durham,16.4,
+"Monday, October 24, 2016","Monday, October 24, 2016",Business,Durham,Morrisville,15.4,
+"Monday, October 24, 2016","Monday, October 24, 2016",Business,Morrisville,Cary,2.2,
+"Tuesday, October 25, 2016","Tuesday, October 25, 2016",Business,Cary,Apex,11.2,
+"Tuesday, October 25, 2016","Tuesday, October 25, 2016",Business,Apex,Eagle Rock,2.2,
+"Tuesday, October 25, 2016","Tuesday, October 25, 2016",Business,Eagle Rock,Cary,3.6,
+"Tuesday, October 25, 2016","Tuesday, October 25, 2016",Business,Whitebridge,Savon Height,3.6,Meal/Entertain
+"Tuesday, October 25, 2016","Tuesday, October 25, 2016",Business,Savon Height,Parkway,4.9,
+"Tuesday, October 25, 2016","Tuesday, October 25, 2016",Business,Parkway,Whitebridge,8.7,Errand/Supplies
+"Wednesday, October 26, 2016","Wednesday, October 26, 2016",Business,Whitebridge,Parkway,2.1,Meeting
+"Wednesday, October 26, 2016","Wednesday, October 26, 2016",Business,Parkway,Whitebridge,2.1,
+"Thursday, October 27, 2016","Thursday, October 27, 2016",Business,Cary,Morrisville,8.4,Meeting
+"Thursday, October 27, 2016","Thursday, October 27, 2016",Business,Morrisville,Morrisville,5.9,
+"Thursday, October 27, 2016","Thursday, October 27, 2016",Business,Huntington Woods,Huntington Woods,12.1,
+"Thursday, October 27, 2016","Thursday, October 27, 2016",Business,Huntington Woods,Weston,3.9,
+"Thursday, October 27, 2016","Thursday, October 27, 2016",Business,Morrisville,Cary,6.2,
+"Friday, October 28, 2016","Friday, October 28, 2016",Business,Cary,Durham,10.4,Meeting
+"Friday, October 28, 2016","Friday, October 28, 2016",Business,Durham,Cary,9.9,Meeting
+"Friday, October 28, 2016","Friday, October 28, 2016",Business,Cary,Winston Salem,107,Meeting
+"Friday, October 28, 2016","Friday, October 28, 2016",Business,Winston Salem,Asheville,133.6,Meeting
+"Friday, October 28, 2016","Friday, October 28, 2016",Business,Asheville,Topton,91.8,Meeting
+"Saturday, October 29, 2016","Saturday, October 29, 2016",Business,Topton,Hayesville,40.7,Meeting
+"Saturday, October 29, 2016","Saturday, October 29, 2016",Business,Hayesville,Topton,75.7,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Topton,Bryson City,29.8,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Bryson City,Bryson City,16.3,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Bryson City,Bryson City,6.5,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Bryson City,Bryson City,6.3,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Bryson City,Almond,6.6,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Almond,Bryson City,15.2,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Bryson City,Asheville,68.4,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Asheville,Mebane,195.9,
+"Sunday, October 30, 2016","Sunday, October 30, 2016",Business,Mebane,Cary,45.2,
+"Monday, October 31, 2016","Monday, October 31, 2016",Business,Cary,Morrisville,3.2,
+"Monday, October 31, 2016","Monday, October 31, 2016",Business,Morrisville,Raleigh,10.3,
+"Monday, October 31, 2016","Monday, October 31, 2016",Business,Raleigh,Cary,13.1,
+"Monday, October 31, 2016","Monday, October 31, 2016",Business,Savon Height,Whitebridge,9.6,Errand/Supplies
+"Tuesday, November 1, 2016","Tuesday, November 1, 2016",Business,Cary,Durham,16.5,
+"Tuesday, November 1, 2016","Tuesday, November 1, 2016",Business,Durham,Cary,12.8,
+"Tuesday, November 1, 2016","Tuesday, November 1, 2016",Business,Whitebridge,Whitebridge,1.2,
+"Tuesday, November 1, 2016","Tuesday, November 1, 2016",Business,Whitebridge,Whitebridge,1,
+"Tuesday, November 1, 2016","Tuesday, November 1, 2016",Business,Whitebridge,Whitebridge,4.1,
+"Tuesday, November 1, 2016","Tuesday, November 1, 2016",Business,Whitebridge,Whitebridge,4.2,Meal/Entertain
+"Wednesday, November 2, 2016","Wednesday, November 2, 2016",Business,Whitebridge,Westpark Place,1.4,
+"Wednesday, November 2, 2016","Wednesday, November 2, 2016",Business,Westpark Place,Whitebridge,1.8,
+"Wednesday, November 2, 2016","Wednesday, November 2, 2016",Business,Cary,Morrisville,8.5,Meeting
+"Wednesday, November 2, 2016","Wednesday, November 2, 2016",Business,Morrisville,Morrisville,5,
+"Wednesday, November 2, 2016","Wednesday, November 2, 2016",Business,Morrisville,Cary,3.8,
+"Thursday, November 3, 2016","Thursday, November 3, 2016",Business,Whitebridge,Hazelwood,2.5,
+"Thursday, November 3, 2016","Thursday, November 3, 2016",Business,Hazelwood,Whitebridge,2.4,
+"Thursday, November 3, 2016","Thursday, November 3, 2016",Business,Whitebridge,Westpark Place,1.4,
+"Thursday, November 3, 2016","Thursday, November 3, 2016",Business,Westpark Place,Whitebridge,1.8,
+"Thursday, November 3, 2016","Thursday, November 3, 2016",Business,Cary,Morrisville,3.1,Meal/Entertain
+"Thursday, November 3, 2016","Thursday, November 3, 2016",Business,Morrisville,Cary,3.1,Customer Visit
+"Friday, November 4, 2016","Friday, November 4, 2016",Business,Cary,Morrisville,7.9,Temporary Site
+"Friday, November 4, 2016","Friday, November 4, 2016",Business,San Jose,Santa Clara,3.8,
+"Friday, November 4, 2016","Friday, November 4, 2016",Business,Agnew,Cory,4.3,
+"Friday, November 4, 2016","Friday, November 4, 2016",Business,Cory,Agnew,3.9,
+"Saturday, November 5, 2016","Saturday, November 5, 2016",Business,Agnew,Renaissance,2.2,
+"Saturday, November 5, 2016","Saturday, November 5, 2016",Business,Renaissance,Agnew,2.8,
+"Saturday, November 5, 2016","Saturday, November 5, 2016",Business,Agnew,Agnew,2.2,
+"Sunday, November 6, 2016","Sunday, November 6, 2016",Business,Agnew,Renaissance,2.4,
+"Sunday, November 6, 2016","Sunday, November 6, 2016",Business,Renaissance,Agnew,2.8,Meeting
+"Sunday, November 6, 2016","Sunday, November 6, 2016",Business,Santa Clara,Berkeley,43.9,Customer Visit
+"Sunday, November 6, 2016","Sunday, November 6, 2016",Business,Downtown,West Berkeley,1.8,
+"Sunday, November 6, 2016","Sunday, November 6, 2016",Business,West Berkeley,Central,3.3,
+"Monday, November 7, 2016","Monday, November 7, 2016",Business,Berkeley,San Francisco,11.8,Between Offices
+"Monday, November 7, 2016","Monday, November 7, 2016",Business,San Francisco,Berkeley,13.2,Between Offices
+"Tuesday, November 8, 2016","Tuesday, November 8, 2016",Business,Berkeley,San Francisco,12.2,Between Offices
+"Tuesday, November 8, 2016","Tuesday, November 8, 2016",Business,San Francisco,Berkeley,11.3,Meeting
+"Tuesday, November 8, 2016","Tuesday, November 8, 2016",Business,Berkeley,Emeryville,3.6,
+"Tuesday, November 8, 2016","Tuesday, November 8, 2016",Business,Emeryville,Berkeley,3,
+"Wednesday, November 9, 2016","Wednesday, November 9, 2016",Business,Berkeley,San Francisco,11.4,
+"Wednesday, November 9, 2016","Wednesday, November 9, 2016",Business,NOMA,Downtown,0.9,
+"Wednesday, November 9, 2016","Wednesday, November 9, 2016",Business,Downtown,Sunnyside,6.2,
+"Wednesday, November 9, 2016","Wednesday, November 9, 2016",Business,Sunnyside,Ingleside,0.7,
+"Wednesday, November 9, 2016","Wednesday, November 9, 2016",Business,Ingleside,Potrero Flats,5.5,Meeting
+"Wednesday, November 9, 2016","Wednesday, November 9, 2016",Business,San Francisco,Oakland,12.7,Customer Visit
+"Wednesday, November 9, 2016","Wednesday, November 9, 2016",Business,Oakland,Berkeley,2.6,
+"Wednesday, November 9, 2016","Wednesday, November 9, 2016",Business,Central,Central,1.1,
+"Thursday, November 10, 2016","Thursday, November 10, 2016",Business,Berkeley,San Francisco,12.6,Temporary Site
+"Thursday, November 10, 2016","Thursday, November 10, 2016",Business,Tenderloin,SOMISSPO,1.2,
+"Thursday, November 10, 2016","Thursday, November 10, 2016",Business,SOMISSPO,Tenderloin,1.1,
+"Thursday, November 10, 2016","Thursday, November 10, 2016",Business,San Francisco,Oakland,9.9,Temporary Site
+"Thursday, November 10, 2016","Thursday, November 10, 2016",Business,Oakland,Berkeley,6,Meeting
+"Thursday, November 10, 2016","Thursday, November 10, 2016",Business,West Berkeley,Central,0.8,
+"Friday, November 11, 2016","Friday, November 11, 2016",Business,Berkeley,Menlo Park,45.9,Customer Visit
+"Friday, November 11, 2016","Friday, November 11, 2016",Business,Menlo Park,Palo Alto,4,
+"Friday, November 11, 2016","Friday, November 11, 2016",Business,Palo Alto,Menlo Park,2.5,
+"Friday, November 11, 2016","Friday, November 11, 2016",Business,Menlo Park,Berkeley,36.6,Customer Visit
+"Friday, November 11, 2016","Friday, November 11, 2016",Business,Central,College Avenue,2.9,
+"Friday, November 11, 2016","Friday, November 11, 2016",Business,College Avenue,Central,2.6,
+"Saturday, November 12, 2016","Saturday, November 12, 2016",Business,Central,South,2.3,
+"Saturday, November 12, 2016","Saturday, November 12, 2016",Business,South,Downtown,6.4,
+"Saturday, November 12, 2016","Saturday, November 12, 2016",Business,Downtown,Central,1.4,
+"Saturday, November 12, 2016","Saturday, November 12, 2016",Business,Central,West Berkeley,0.6,
+"Saturday, November 12, 2016","Saturday, November 12, 2016",Business,West Berkeley,South,5.9,Meeting
+"Saturday, November 12, 2016","Saturday, November 12, 2016",Business,South,Southwest Berkeley,0.8,
+"Saturday, November 12, 2016","Saturday, November 12, 2016",Business,Berkeley,Emeryville,1.3,
+"Saturday, November 12, 2016","Saturday, November 12, 2016",Business,Emeryville,Berkeley,3.7,Errand/Supplies
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,Central,Central,2.3,
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,Central,Central,2.6,
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,Central,Southside,1.9,
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,Southside,West Berkeley,2.1,
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,West Berkeley,Southside,4,Meeting
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,Southside,South Berkeley,0.9,
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,South Berkeley,Southside,0.9,
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,Southside,Central,2.4,
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,Central,Southside,1.9,
+"Sunday, November 13, 2016","Sunday, November 13, 2016",Business,Southside,Central,1.9,
+"Monday, November 14, 2016","Monday, November 14, 2016",Business,Berkeley,Mountain View,44.6,Customer Visit
+"Monday, November 14, 2016","Monday, November 14, 2016",Business,Mountain View,Berkeley,43.6,Customer Visit
+"Monday, November 14, 2016","Monday, November 14, 2016",Business,Berkeley,Emeryville,2.5,
+"Monday, November 14, 2016","Monday, November 14, 2016",Business,Emeryville,Berkeley,3.7,Errand/Supplies
+"Tuesday, November 15, 2016","Tuesday, November 15, 2016",Business,Berkeley,Oakland,5.1,
+"Tuesday, November 15, 2016","Tuesday, November 15, 2016",Business,Oakland,San Francisco,9.7,Temporary Site
+"Tuesday, November 15, 2016","Tuesday, November 15, 2016",Business,San Francisco,Berkeley,11.8,Temporary Site
+"Wednesday, November 16, 2016","Wednesday, November 16, 2016",Business,Berkeley,El Cerrito,2.3,Temporary Site
+"Wednesday, November 16, 2016","Wednesday, November 16, 2016",Business,El Cerrito,Berkeley,3.1,Meal/Entertain
+"Thursday, November 17, 2016","Thursday, November 17, 2016",Business,Berkeley,Oakland,16.3,Customer Visit
+"Friday, November 18, 2016","Friday, November 18, 2016",Business,Cary,Morrisville,3.1,Meal/Entertain
+"Friday, November 18, 2016","Friday, November 18, 2016",Business,Morrisville,Cary,5.2,Meal/Entertain
+"Friday, November 18, 2016","Friday, November 18, 2016",Business,Krendle Woods,Whitebridge,6.1,Meeting
+"Saturday, November 19, 2016","Saturday, November 19, 2016",Business,Cary,Durham,10.3,Meeting
+"Saturday, November 19, 2016","Saturday, November 19, 2016",Business,Durham,Cary,10.5,Meeting
+"Saturday, November 19, 2016","Saturday, November 19, 2016",Business,Cary,Cary,1.5,
+"Saturday, November 19, 2016","Saturday, November 19, 2016",Business,Cary,Cary,1.8,
+"Saturday, November 19, 2016","Saturday, November 19, 2016",Business,Cary,Apex,5.4,Errand/Supplies
+"Saturday, November 19, 2016","Saturday, November 19, 2016",Business,Apex,Cary,5.4,Customer Visit
+"Sunday, November 20, 2016","Sunday, November 20, 2016",Business,Cary,Cary,39.2,Between Offices
+"Sunday, November 20, 2016","Sunday, November 20, 2016",Business,Cary,Cary,6.4,Customer Visit
+"Sunday, November 20, 2016","Sunday, November 20, 2016",Business,Cary,Cary,2.7,Meeting
+"Sunday, November 20, 2016","Sunday, November 20, 2016",Business,Cary,Cary,18.5,Errand/Supplies
+"Monday, November 21, 2016","Monday, November 21, 2016",Business,Cary,Cary,2.5,Meal/Entertain
+"Monday, November 21, 2016","Monday, November 21, 2016",Business,Cary,Cary,2.1,Meal/Entertain
+"Monday, November 21, 2016","Monday, November 21, 2016",Business,Cary,Unknown Location,6.7,Errand/Supplies
+"Monday, November 21, 2016","Monday, November 21, 2016",Business,Unknown Location,Morrisville,3.5,Meal/Entertain
+"Monday, November 21, 2016","Monday, November 21, 2016",Business,Morrisville,Cary,3.4,Errand/Supplies
+"Tuesday, November 22, 2016","Tuesday, November 22, 2016",Business,Cary,Cary,5.5,Meeting
+"Tuesday, November 22, 2016","Tuesday, November 22, 2016",Business,Cary,Cary,4.1,Meeting
+"Tuesday, November 22, 2016","Tuesday, November 22, 2016",Business,Cary,Cary,12.7,Customer Visit
+"Tuesday, November 22, 2016","Tuesday, November 22, 2016",Business,Cary,Morrisville,3,Meal/Entertain
+"Tuesday, November 22, 2016","Tuesday, November 22, 2016",Business,Morrisville,Cary,3.5,Customer Visit
+"Wednesday, November 23, 2016","Wednesday, November 23, 2016",Business,Cary,Cary,5.9,Meal/Entertain
+"Wednesday, November 23, 2016","Wednesday, November 23, 2016",Business,Cary,Cary,1.9,
+"Wednesday, November 23, 2016","Wednesday, November 23, 2016",Business,Cary,Cary,3.3,
+"Wednesday, November 23, 2016","Wednesday, November 23, 2016",Business,Cary,Cary,1.3,
+"Friday, November 25, 2016","Friday, November 25, 2016",Business,Cary,Durham,10.3,Meeting
+"Friday, November 25, 2016","Friday, November 25, 2016",Business,Durham,Cary,11.1,Meeting
+"Saturday, November 26, 2016","Saturday, November 26, 2016",Business,Cary,Cary,1.4,
+"Saturday, November 26, 2016","Saturday, November 26, 2016",Business,Cary,Apex,5.1,Meeting
+"Saturday, November 26, 2016","Saturday, November 26, 2016",Business,Apex,Holly Springs,9,Meeting
+"Saturday, November 26, 2016","Saturday, November 26, 2016",Business,Holly Springs,Cary,13.3,Between Offices
+"Saturday, November 26, 2016","Saturday, November 26, 2016",Business,Cary,Cary,2.5,Errand/Supplies
+"Sunday, November 27, 2016","Sunday, November 27, 2016",Business,Cary,Morrisville,3.3,Meal/Entertain
+"Sunday, November 27, 2016","Sunday, November 27, 2016",Business,Morrisville,Cary,2.9,
+"Wednesday, November 30, 2016","Wednesday, November 30, 2016",Business,Cary,Raleigh,8.5,Customer Visit
+"Wednesday, November 30, 2016","Wednesday, November 30, 2016",Business,Raleigh,Morrisville,6.7,Temporary Site
+"Wednesday, November 30, 2016","Wednesday, November 30, 2016",Business,Morrisville,Cary,3.1,
+"Thursday, December 1, 2016","Thursday, December 1, 2016",Business,Cary,Cary,5.5,Meeting
+"Thursday, December 1, 2016","Thursday, December 1, 2016",Business,Cary,Cary,5.5,Errand/Supplies
+"Thursday, December 1, 2016","Thursday, December 1, 2016",Business,Cary,Morrisville,2.9,Meal/Entertain
+"Thursday, December 1, 2016","Thursday, December 1, 2016",Business,Morrisville,Cary,2.9,Customer Visit
+"Friday, December 2, 2016","Friday, December 2, 2016",Business,Cary,Apex,5.1,Meal/Entertain
+"Friday, December 2, 2016","Friday, December 2, 2016",Business,Apex,Cary,5.3,Customer Visit
+"Friday, December 2, 2016","Friday, December 2, 2016",Business,Cary,Morrisville,3.3,Meal/Entertain
+"Friday, December 2, 2016","Friday, December 2, 2016",Business,Morrisville,Cary,3,Customer Visit
+"Saturday, December 3, 2016","Saturday, December 3, 2016",Business,Cary,Wake Co.,6.6,Errand/Supplies
+"Saturday, December 3, 2016","Saturday, December 3, 2016",Business,Wake Co.,Morrisville,1.8,
+"Saturday, December 3, 2016","Saturday, December 3, 2016",Business,Morrisville,Cary,3,Customer Visit
+"Sunday, December 4, 2016","Sunday, December 4, 2016",Business,Cary,Morrisville,2.9,Meal/Entertain
+"Sunday, December 4, 2016","Sunday, December 4, 2016",Business,Morrisville,Cary,3.4,Customer Visit
+"Monday, December 5, 2016","Monday, December 5, 2016",Business,Cary,Cary,4.1,
+"Monday, December 5, 2016","Monday, December 5, 2016",Business,Cary,Cary,3.8,Meal/Entertain
+"Wednesday, December 7, 2016","Wednesday, December 7, 2016",Business,Cary,Cary,6.6,Meeting
+"Wednesday, December 7, 2016","Wednesday, December 7, 2016",Business,Cary,Cary,4,Meeting
+"Wednesday, December 7, 2016","Wednesday, December 7, 2016",Business,Cary,Cary,7,Customer Visit
+"Wednesday, December 7, 2016","Wednesday, December 7, 2016",Business,Cary,Cary,6.9,Meal/Entertain
+"Thursday, December 8, 2016","Thursday, December 8, 2016",Business,Cary,Cary,3.4,Errand/Supplies
+"Thursday, December 8, 2016","Thursday, December 8, 2016",Business,Cary,Cary,3.4,Errand/Supplies
+"Thursday, December 8, 2016","Thursday, December 8, 2016",Business,Cary,Cary,2,Meeting
+"Thursday, December 8, 2016","Thursday, December 8, 2016",Business,Cary,Cary,2,Errand/Supplies
+"Friday, December 9, 2016","Friday, December 9, 2016",Business,Cary,Apex,5.1,Errand/Supplies
+"Friday, December 9, 2016","Friday, December 9, 2016",Business,Apex,Cary,8.8,Temporary Site
+"Friday, December 9, 2016","Friday, December 9, 2016",Business,Cary,Cary,5.6,Meeting
+"Friday, December 9, 2016","Friday, December 9, 2016",Business,Cary,Cary,18.9,Customer Visit
+"Saturday, December 10, 2016","Saturday, December 10, 2016",Business,Cary,Fuquay-Varina,15.6,Meeting
+"Saturday, December 10, 2016","Saturday, December 10, 2016",Business,Fuquay-Varina,Cary,15.6,Errand/Supplies
+"Saturday, December 10, 2016","Saturday, December 10, 2016",Business,Cary,Morrisville,3,Meal/Entertain
+"Saturday, December 10, 2016","Saturday, December 10, 2016",Business,Morrisville,Cary,3.1,Customer Visit
+"Sunday, December 11, 2016","Sunday, December 11, 2016",Business,Cary,Morrisville,3,Meal/Entertain
+"Sunday, December 11, 2016","Sunday, December 11, 2016",Business,Morrisville,Cary,4.8,Errand/Supplies
+"Sunday, December 11, 2016","Sunday, December 11, 2016",Business,Cary,Cary,2.1,Errand/Supplies
+"Monday, December 12, 2016","Monday, December 12, 2016",Business,Cary,Cary,3.1,Errand/Supplies
+"Monday, December 12, 2016","Monday, December 12, 2016",Business,Cary,Apex,4.4,Meal/Entertain
+"Monday, December 12, 2016","Monday, December 12, 2016",Business,Apex,Cary,4.7,Customer Visit
+"Monday, December 12, 2016","Monday, December 12, 2016",Business,Cary,Morrisville,3,Meal/Entertain
+"Monday, December 12, 2016","Monday, December 12, 2016",Business,Morrisville,Cary,3,Customer Visit
+"Tuesday, December 13, 2016","Tuesday, December 13, 2016",Business,Cary,Cary,4.2,Errand/Supplies
+"Tuesday, December 13, 2016","Tuesday, December 13, 2016",Business,Cary,Cary,4.1,Meal/Entertain
+"Wednesday, December 14, 2016","Wednesday, December 14, 2016",Business,Cary,Cary,3.4,
+"Wednesday, December 14, 2016","Wednesday, December 14, 2016",Business,Cary,Cary,3.3,
+"Wednesday, December 14, 2016","Wednesday, December 14, 2016",Business,Cary,Morrisville,3,Meal/Entertain
+"Wednesday, December 14, 2016","Wednesday, December 14, 2016",Business,Morrisville,Cary,3.1,Customer Visit
+"Thursday, December 15, 2016","Thursday, December 15, 2016",Business,Cary,Morrisville,10.6,Meeting
+"Saturday, December 17, 2016","Saturday, December 17, 2016",Business,Unknown Location,Unknown Location,4.8,Airport/Travel
+"Saturday, December 17, 2016","Saturday, December 17, 2016",Business,Unknown Location,Unknown Location,5.3,Temporary Site
+"Sunday, December 18, 2016","Sunday, December 18, 2016",Business,Unknown Location,Unknown Location,4.9,Errand/Supplies
+"Sunday, December 18, 2016","Sunday, December 18, 2016",Business,Unknown Location,Unknown Location,10.2,Errand/Supplies
+"Sunday, December 18, 2016","Sunday, December 18, 2016",Business,Unknown Location,Unknown Location,9.2,
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Unknown Location,Islamabad,7.7,Errand/Supplies
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Islamabad,Rawalpindi,5.9,Temporary Site
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Rawalpindi,Unknown Location,0.7,Errand/Supplies
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Unknown Location,Unknown Location,1.3,
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Unknown Location,Unknown Location,2.5,
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Unknown Location,Unknown Location,5.3,
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Unknown Location,Unknown Location,5.4,
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Unknown Location,Rawalpindi,10.2,Customer Visit
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Rawalpindi,Islamabad,7.2,Customer Visit
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Islamabad,Unknown Location,2.2,
+"Monday, December 19, 2016","Monday, December 19, 2016",Business,Unknown Location,Unknown Location,11,Meeting
+"Tuesday, December 20, 2016","Tuesday, December 20, 2016",Business,Unknown Location,Rawalpindi,12,
+"Tuesday, December 20, 2016","Tuesday, December 20, 2016",Business,Rawalpindi,Rawalpindi,3.3,Errand/Supplies
+"Tuesday, December 20, 2016","Tuesday, December 20, 2016",Business,Rawalpindi,Unknown Location,19.4,Meeting
+"Tuesday, December 20, 2016","Tuesday, December 20, 2016",Business,Unknown Location,Unknown Location,1.7,Errand/Supplies
+"Tuesday, December 20, 2016","Tuesday, December 20, 2016",Business,Unknown Location,Islamabad,5.7,Temporary Site
+"Tuesday, December 20, 2016","Tuesday, December 20, 2016",Business,Islamabad,Islamabad,1.8,Errand/Supplies
+"Tuesday, December 20, 2016","Tuesday, December 20, 2016",Business,Islamabad,Islamabad,1.4,Errand/Supplies
+"Tuesday, December 20, 2016","Tuesday, December 20, 2016",Business,Islamabad,Unknown Location,10.3,Customer Visit
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Unknown Location,Unknown Location,11.5,Meeting
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Unknown Location,Islamabad,4.9,Errand/Supplies
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Islamabad,Unknown Location,3.5,Meal/Entertain
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Unknown Location,Unknown Location,16.2,Meeting
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Unknown Location,Unknown Location,2,Errand/Supplies
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Unknown Location,Islamabad,2.1,Errand/Supplies
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Islamabad,Islamabad,2.1,Meeting
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Islamabad,Unknown Location,7.2,Customer Visit
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Unknown Location,Rawalpindi,12,Meeting
+"Wednesday, December 21, 2016","Wednesday, December 21, 2016",Business,Rawalpindi,Unknown Location,103,Meeting
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Unknown Location,Unknown Location,32.3,Meeting
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Unknown Location,Unknown Location,5.3,Customer Visit
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Unknown Location,Unknown Location,11.6,Meeting
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Unknown Location,Unknown Location,23.2,Meeting
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Unknown Location,Unknown Location,3.2,Errand/Supplies
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Unknown Location,Unknown Location,12.3,Temporary Site
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Unknown Location,Lahore,14,Meeting
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Lahore,Lahore,2.1,Meal/Entertain
+"Thursday, December 22, 2016","Thursday, December 22, 2016",Business,Lahore,Lahore,2.1,Customer Visit
+"Friday, December 23, 2016","Friday, December 23, 2016",Business,Lahore,Lahore,3,Meeting
+"Friday, December 23, 2016","Friday, December 23, 2016",Business,Lahore,Unknown Location,6.2,Meeting
+"Friday, December 23, 2016","Friday, December 23, 2016",Business,Unknown Location,Unknown Location,9.6,Meeting
+"Friday, December 23, 2016","Friday, December 23, 2016",Business,Unknown Location,Unknown Location,1.3,Errand/Supplies
+"Friday, December 23, 2016","Friday, December 23, 2016",Business,Unknown Location,Lahore,7.1,Meal/Entertain
+"Saturday, December 24, 2016","Saturday, December 24, 2016",Business,Lahore,Unknown Location,6.3,Meal/Entertain
+"Saturday, December 24, 2016","Saturday, December 24, 2016",Business,Unknown Location,Lahore,10.7,Meal/Entertain
+"Saturday, December 24, 2016","Saturday, December 24, 2016",Business,Lahore,Lahore,5.3,Meal/Entertain
+"Saturday, December 24, 2016","Saturday, December 24, 2016",Business,Lahore,Lahore,1.6,Errand/Supplies
+"Saturday, December 24, 2016","Saturday, December 24, 2016",Business,Lahore,Lahore,3.6,Errand/Supplies
+"Saturday, December 24, 2016","Saturday, December 24, 2016",Business,Lahore,Lahore,1.7,Errand/Supplies
+"Saturday, December 24, 2016","Saturday, December 24, 2016",Business,Lahore,Lahore,2.9,Meal/Entertain
+"Saturday, December 24, 2016","Saturday, December 24, 2016",Business,Lahore,Lahore,0.6,Errand/Supplies
+"Sunday, December 25, 2016","Sunday, December 25, 2016",Business,Lahore,Lahore,0.6,Errand/Supplies
+"Sunday, December 25, 2016","Sunday, December 25, 2016",Business,Lahore,Lahore,2.3,Meal/Entertain
+"Sunday, December 25, 2016","Sunday, December 25, 2016",Business,Lahore,Lahore,2.3,Meal/Entertain
+"Monday, December 26, 2016","Monday, December 26, 2016",Business,Lahore,Lahore,3.2,Meal/Entertain
+"Monday, December 26, 2016","Monday, December 26, 2016",Business,Lahore,Lahore,6.2,Customer Visit
+"Monday, December 26, 2016","Monday, December 26, 2016",Business,Lahore,Lahore,7.7,Customer Visit
+"Monday, December 26, 2016","Monday, December 26, 2016",Business,Lahore,Lahore,3.8,Customer Visit
+"Monday, December 26, 2016","Monday, December 26, 2016",Business,Lahore,Unknown Location,7.9,Meeting
+"Tuesday, December 27, 2016","Tuesday, December 27, 2016",Business,Kar?chi,Kar?chi,4.9,Temporary Site
+"Tuesday, December 27, 2016","Tuesday, December 27, 2016",Business,Kar?chi,Kar?chi,5,Meal/Entertain
+"Tuesday, December 27, 2016","Tuesday, December 27, 2016",Business,Kar?chi,Kar?chi,0.6,Meal/Entertain
+"Tuesday, December 27, 2016","Tuesday, December 27, 2016",Business,Kar?chi,Unknown Location,3.1,Customer Visit
+"Tuesday, December 27, 2016","Tuesday, December 27, 2016",Business,Unknown Location,Kar?chi,7.9,Meeting
+"Tuesday, December 27, 2016","Tuesday, December 27, 2016",Business,Kar?chi,Kar?chi,5.5,Customer Visit
+"Wednesday, December 28, 2016","Wednesday, December 28, 2016",Business,Kar?chi,Unknown Location,10.3,Meal/Entertain
+"Wednesday, December 28, 2016","Wednesday, December 28, 2016",Business,Unknown Location,Kar?chi,10.4,Errand/Supplies
+"Wednesday, December 28, 2016","Wednesday, December 28, 2016",Business,Kar?chi,Kar?chi,2,Errand/Supplies
+"Wednesday, December 28, 2016","Wednesday, December 28, 2016",Business,Kar?chi,Unknown Location,8.5,Meal/Entertain
+"Wednesday, December 28, 2016","Wednesday, December 28, 2016",Business,Unknown Location,Kar?chi,4.4,Errand/Supplies
+"Wednesday, December 28, 2016","Wednesday, December 28, 2016",Business,Kar?chi,Kar?chi,3.8,Errand/Supplies
+"Wednesday, December 28, 2016","Wednesday, December 28, 2016",Business,Kar?chi,Kar?chi,5.1,Errand/Supplies
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Kar?chi,3.8,Errand/Supplies
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Unknown Location,11.6,Meal/Entertain
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Unknown Location,Kar?chi,11.9,Meal/Entertain
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Kar?chi,1.4,Errand/Supplies
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Kar?chi,1.1,Errand/Supplies
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Kar?chi,4.1,Airport/Travel
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Kar?chi,6.1,Between Offices
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Kar?chi,1.3,Errand/Supplies
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Unknown Location,3,Meal/Entertain
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Unknown Location,Kar?chi,4.1,Customer Visit
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Kar?chi,7.2,Meeting
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Kar?chi,Unknown Location,6.4,
+"Thursday, December 29, 2016","Thursday, December 29, 2016",Business,Unknown Location,Kar?chi,12.9,Meeting
+"Friday, December 30, 2016","Friday, December 30, 2016",Business,Kar?chi,Kar?chi,2.8,Errand/Supplies
+"Friday, December 30, 2016","Friday, December 30, 2016",Business,Kar?chi,Kar?chi,2.9,Errand/Supplies
+"Friday, December 30, 2016","Friday, December 30, 2016",Business,Kar?chi,Kar?chi,4.6,Errand/Supplies
+"Friday, December 30, 2016","Friday, December 30, 2016",Business,Kar?chi,Kar?chi,4.6,Meeting
+"Friday, December 30, 2016","Friday, December 30, 2016",Business,Kar?chi,Kar?chi,0.8,Customer Visit
+"Saturday, December 31, 2016","Saturday, December 31, 2016",Business,Kar?chi,Kar?chi,0.7,Meeting
+"Saturday, December 31, 2016","Saturday, December 31, 2016",Business,Kar?chi,Unknown Location,3.9,Temporary Site
+"Saturday, December 31, 2016","Saturday, December 31, 2016",Business,Unknown Location,Unknown Location,16.2,Meeting
+"Saturday, December 31, 2016","Saturday, December 31, 2016",Business,Katunayake,Gampaha,6.4,Temporary Site
+"Saturday, December 31, 2016","Saturday, December 31, 2016",Business,Gampaha,Ilukwatta,48.2,Temporary Site
+Totals,,,,,12204.7,
